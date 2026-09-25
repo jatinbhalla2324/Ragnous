@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+langgraph
+langchain-core
+cohere
+sqlalchemy[asyncio]
+asyncpg
+redis
+celery
+python-jose
+passlib[bcrypt]
+slowapi
+langchain-community
+pypdf
+python-dotenv
+tavily-python
+langchain-openai
+sentence-transformers
+langchain-groq
+langchain-google-genai
+reportlab
+# Renders NCERT chapter pages so study-note figures can be cropped out of them
+# (app/services/ncert_figure_service.py).
+pymupdf
+websockets
+httpx

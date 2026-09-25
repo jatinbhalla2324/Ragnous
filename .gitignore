@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── RAGNOUS ────────────────────────────────────────────────────────────────
+
+# Secrets — every .env stays local; only the template is public.
+.env.*
+!.env.example
+
+# The Python template above ignores every `lib/` directory, which would
+# silently drop the frontend's src/lib.
+!src/lib/
+
+# Frontend build output and tooling
+node_modules/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# NCERT textbooks and the figure crops cut from them (~1.1 GB). Missing books
+# are fetched from ncert.nic.in on demand and figures are rebuilt with
+# `python -m scripts.prewarm_figures`.
+RAGNOUS-BACKEND/data/
+
+# Editor / OS / local agent settings
+.idea/
+.vscode/
+.DS_Store
+.claude/

@@ -1,0 +1,1696 @@
+{
+  "created": "2026-09-25T23:02:11",
+  "seed": 20260925,
+  "written_by": [
+    [
+      "groq",
+      "qwen/qwen3.8-27b"
+    ]
+  ],
+  "positives": [
+    {
+      "id": "iesc103",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc103",
+      "subject": "iesc1dd",
+      "page": 8,
+      "passage": "cells are flat and tightly packed \n(Fig. 3.11b)\nSkin, mouth and \noesophagus\nSecretion: Production \nand secretion of mucus, \nenzymes, hormones, sweat \nsaliva\nCells specialised for producing \nand releasing substances; may \nbe cuboidal or columnar  \n(Fig. 3.11c)\nSalivary glands, sweat \nglands and stomach \nlining \nSensory functions: Smell, \ntaste, sound and balance \nSpecialised receptor cells having \nhair like cilia (Fig. 3.11d)\nNostrils, taste buds \nand inner ear\nAbsorption: Efficient \nuptake of nutrients, water, \netc.\nSingle layer of tall, pillar-\nlike cells, often with hair-like \nstructure (Fig. 3.11e)\nLining of small \nintestine\n3.3.2 How are various parts \nconnected in our body?\nYou have read that blood connects \ndifferent parts of the body by transporting \nnutrients, gases, hormones, etc. \nIn the same way, bones connect \nand support the body from head \nto toe. A tissue that connects and supports \nother tissues is called a connective tissue. \nBoth blood and bones are connective",
+      "question": "What is the main function of connective tissue, and can you give two examples of it?",
+      "reference_answer": "Connective tissue is a type of tissue that connects and supports other tissues in the body. Two examples of connective tissue are blood and bones.",
+      "key_points": [
+        "Connects and supports other tissues",
+        "Blood is an example",
+        "Bones are an example"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc113",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc113",
+      "subject": "jesc1dd",
+      "page": 3,
+      "passage": "into food energy.\n/square6When green plants are eaten by primary consumers, a great deal\nof energy is lost as heat to the environment, some amount goes\ninto digestion and in doing work and the rest goes towards growth\nand reproduction. An average of 10% of the food eaten is turned\ninto its own body and made available for the next level of\nconsumers.\n/square6Therefore, 10% can be taken as the average value for the amount\nof organic matter that is present at each step and reaches the next\nlevel of consumers.\n/square6Since so little energy is available for the next level of consumers,\nfood chains generally consist of only three or four steps. The loss\nof energy at each step is so great that very little usable energy\nremains after four trophic levels.\n/square6There are generally a greater number of individuals at the lower\ntrophic levels of an ecosystem, the greatest number is of the\nproducers.\n/square6The length and complexity of food chains vary greatly. Each organism",
+      "question": "Why do food chains usually have only three or four steps?",
+      "reference_answer": "Food chains are short because a large amount of energy is lost as heat, used for digestion, work, and growth at each trophic level. On average, only about 10% of the energy from one level is transferred to the next. After four levels, very little usable energy remains to support further consumers.",
+      "key_points": [
+        "Energy is lost at each trophic level (as heat, for work, etc.)",
+        "Only about 10% of energy is transferred to the next level",
+        "Very little usable energy remains after four trophic levels"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc105",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc105",
+      "subject": "iesc1dd",
+      "page": 18,
+      "passage": "minimum difference of 25 °C in boiling points. It can also be used \nto obtain a liquid from a mixture of a liquid and a solid.\n y Paper chromatography can be used to separate compounds by \ntaking advantage of differences in their rates of movement on the \npaper.\n y A separating funnel is used to separate two immiscible liquids \nbased on their different densities. \n y The transition of a solid directly into a vapour (below its melting \npoint) without passing through the liquid state is called sublimation. \nThe process when the vapour cools and changes back into a solid \nwithout becoming a liquid is called deposition.\n y Centrifugation uses rapid spinning to separate heavier solid \nparticles from a solid-liquid mixture.\n y Coagulation involves the addition of a substance, called a coagulant, \nto make smaller particles clump together and settle down in a \nheterogeneous mixture of solids and liquids.\n y The dispersed particles in a colloid or suspension scatter light,",
+      "question": "What is the difference between sublimation and deposition?",
+      "reference_answer": "Sublimation is the process where a solid changes directly into a vapour without becoming a liquid, which happens below its melting point. Deposition is the reverse process, where a vapour cools and changes back into a solid without passing through the liquid state.",
+      "key_points": [
+        "Sublimation is the transition from solid to vapour.",
+        "Sublimation occurs without passing through the liquid state.",
+        "Deposition is the transition from vapour to solid.",
+        "Deposition occurs without passing through the liquid state."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees101",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees101",
+      "subject": "8th_social_english",
+      "page": 11,
+      "passage": "11 India and the World: Land and the People  \n1 – Natural Resources and Their Use\nThe ‘Natural Resource Curse’\nHaving abundant natural resources does not guarantee \neconomic prosperity. Some regions rich in natural resources \ncan experience slower economic growth and development — a \nphenomenon economists call the ‘natural resource curse’ or \nthe ‘paradox of plenty’. Put very simply, this means that often \nhaving plenty of natural resources does not automatically \nmean that a country is rich. Frequently, economies are unable \nto develop industries that convert the resources into products \nof higher value; the chapter ‘Factors of Production’ in the latter \npart of this book will give you an understanding of this. \nIndia has generally avoided this curse by investing in the \ndevelopment of such industries to meet our growing needs. \nLET’S EXPLORE\nWhat do you think are the different inputs required to \nenable the use of the natural resources available in different \ngeographical areas?",
+      "question": "What is the 'natural resource curse' and how has India managed to avoid it?",
+      "reference_answer": "The 'natural resource curse' is a phenomenon where regions with abundant natural resources experience slower economic growth because they fail to develop industries that convert these resources into higher-value products. India has generally avoided this curse by investing in the development of such industries to meet its growing needs.",
+      "key_points": [
+        "It refers to slower economic growth despite having abundant natural resources.",
+        "It happens because economies fail to develop industries to convert resources into higher-value products.",
+        "India avoided it by investing in the development of such industries."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees105",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees105",
+      "subject": "8th_social_english",
+      "page": 12,
+      "passage": "Managing the electoral process\nManaging elections in India is a mammoth task. The ECI has been \nupgrading its capacities to keep pace with the needs of modern \nIndia in conducting free and fair elections. The electoral system \nis massive and needs to work efficiently. We take the example of \nthe Lok Sabha elections to illustrate this. Note that the elections \nto the state assemblies follow a similar process. All elections take \nplace at different times but with some periodicity; so every year , \nseveral polls are conducted in various parts of the country based \non when they are due.  \nFig. 5.12. A few numbers showing the scale of the 2024 Lok Sabha elections.\nAbout  \n980 million\nvoters\n543\nparliamentary \nconstituencies\nOver  \n1 million\npolling stations\nAs you can see, the numbers are very large. Many people are \ndeployed to assist the whole process, including teachers. \nLET’S EXPLORE\nIdentify teachers in your school or vicinity who may have",
+      "question": "How big is the scale of the Lok Sabha elections in India, and who helps manage it?",
+      "reference_answer": "The Lok Sabha elections are massive, involving about 980 million voters, 543 parliamentary constituencies, and over 1 million polling stations. To handle this huge task, the Election Commission of India upgrades its capacities and deploys many people, including teachers, to assist in the process.",
+      "key_points": [
+        "Approximately 980 million voters",
+        "543 parliamentary constituencies",
+        "Over 1 million polling stations",
+        "Teachers and many others are deployed to assist"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess402",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess402",
+      "subject": "jess4dd",
+      "page": 16,
+      "passage": "28\nDemocratic Politics\n 1 2 3 4 \n(a) D A B C \n(b) B C D A \n(c) A C D B \n(d) C D A B \nExercises\n10. Examine the following pairs that give the level of gov ernment in India \nand the powers of the government at that level to make laws on the \nsubjects mentioned against each. Which of the following pairs is not \ncorrectly matched?\n11.\n Match List I with List II and select the correct answer using   \n the codes given below the lists:\nList I List II \n1. Union of India A. Prime Minister \n2. State B. Sarpanch \n3. Municipal Corporation C. Governor \n4. Gram Panchay\nat D. Mayor \n12. Consider the following two statements. \n A. In a federation, the powers of the federal and provincial \ngo\nvernments are clearly demarcated. \n B. India is a federation because the powers of the Union and State \nGovernments are specified in the Constitution and they ha\nve \nexclusive jurisdiction on their respective subjects. \n C.  Sri Lanka is a federation because the country is divided into \nprovinces.",
+      "question": "Why is India considered a federation according to the constitutional structure?",
+      "reference_answer": "India is a federation because the powers of the Union and State Governments are clearly specified in the Constitution. Each level of government has exclusive jurisdiction over its respective subjects, ensuring a clear demarcation of powers.",
+      "key_points": [
+        "Powers of Union and State Governments are specified in the Constitution",
+        "Governments have exclusive jurisdiction on their respective subjects",
+        "Powers are clearly demarcated between federal and provincial/state levels"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc108",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc108",
+      "subject": "iesc1dd",
+      "page": 6,
+      "passage": "and 2 electrons, while a sodium atom has 11 protons and 11 electrons. Since \nthe total positive charge equals the total negative charge, the helium or \nthe sodium atoms are also electrically neutral. Similarly, all the atoms are \nelectrically neutral.\n7. Assertion (A): Rutherford concluded that most of the mass of an atom is concentrated in \na small region at the centre called the nucleus.\n Reason (R): According to Thomson’ s model, electrons are embedded in a uniformly \ndistributed positive charge sphere.\n Choose the correct option:\n(i) Both A and R are true, and R is the correct explanation of A.\n(ii) Both A and R are true, but R is not the correct explanation of A.\n(iii) A is true, but R is false.\n(iv) A is false, but R is true.\nPause and Ponder\nFig. 8.6: Spiral path followed by a \ncharged particle on losing energy\nBorn \nin New \nZealand, \nErnest \nRutherford \nmoved to \nCambridge \nto work with J. J. Thomson \nand later became known \nas the Father of Nuclear \nPhysics. He discovered",
+      "question": "Why are atoms considered electrically neutral even though they contain protons and electrons?",
+      "reference_answer": "Atoms are electrically neutral because the total positive charge from the protons is equal to the total negative charge from the electrons. This balance of charges results in a net charge of zero for the atom.",
+      "key_points": [
+        "Total positive charge equals total negative charge",
+        "Protons provide positive charge",
+        "Electrons provide negative charge",
+        "Net charge is zero"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess303",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess303",
+      "subject": "class 10th india and contemporary world 2",
+      "page": 3,
+      "passage": "money\n, values, skills, ideas, inventions, and even germs and diseases.\nAs early as 3000 BCE an active coastal trade linked the Indus valley\ncivilisations with present-day West Asia. For more than a millennia,\ncowries (the Hindi cowdi or seashells, used as a form of currency)\nfrom the Maldives found their way to China and East Africa. The\nlong-distance spread of disease-carrying germs may be traced as\nfar back as the seventh century. By the thirteenth century it had\nbecome an unmistakable link.\nThe  Making  of a Global W orld Chapter III\nThe Making of a Global World\nFig. 1 – Image of a ship on a memorial stone,\nGoa Museum, tenth century CE.\nFrom the ninth century, images of ships\nappear regularly in memorial stones found in\nthe western coast, indicating the significance\nof oceanic trade.\nReprint 2026-27",
+      "question": "How do we know that oceanic trade was important on the western coast of India starting from the ninth century?",
+      "reference_answer": "The significance of oceanic trade is indicated by the regular appearance of ship images on memorial stones found along the western coast from the ninth century onwards. An example of such an image is preserved in the Goa Museum.",
+      "key_points": [
+        "Images of ships appear regularly on memorial stones",
+        "These stones are found on the western coast",
+        "This trend started from the ninth century"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc106",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc106",
+      "subject": "jesc1dd",
+      "page": 11,
+      "passage": "Growth hormone is one of the hormones secreted by the pituitary. As\nits name indicates, growth hormone regulates growth and development\nof the body. If there is a deficiency of this hormone in childhood, it\nleads to dwarfism.\nYou must have noticed many dramatic changes in your appearance\nas well as that of your friends as you approached 10–12 years of age.\nThese changes associated with puberty are because of the secretion of\ntestosterone in males and oestrogen in females.\nDo you know anyone in your family or friends who has been advised\nby the doctor to take less sugar in their diet because they are suffering\nfrom diabetes? As a treatment, they might be taking injections of insulin.\nThis is a hormone which is produced by the pancreas and helps in\nregulating blood sugar levels. If it is not secreted in proper amounts,\nthe sugar level in the blood rises causing many harmful effects.\nFigure 6.7 Endocrine glands in human beings (a) male, (b) female\n(a) (b)\nDo You Know?\nHypothalamus plays",
+      "question": "What happens to the body if a child doesn't get enough growth hormone, and which gland makes it?",
+      "reference_answer": "Growth hormone is secreted by the pituitary gland and regulates the growth and development of the body. If there is a deficiency of this hormone during childhood, it leads to a condition called dwarfism.",
+      "key_points": [
+        "Growth hormone is secreted by the pituitary gland",
+        "It regulates growth and development",
+        "Deficiency in childhood leads to dwarfism"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu108",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu108",
+      "subject": "8th_science_english",
+      "page": 13,
+      "passage": "128\nCuriosity — Textbook of Science for Grade 8\nSome discussion points\n z Do the Samples, A and B look the same?\n z Which sample exhibits magnetic properties?\n z Can we separate the components of Samples A and B?\n z On adding dilute hydrochloric acid, do gases evolve in both \nSamples A and B? \n z In both the cases, do the gases smell the same or different?\n z Also, categorise the substances used in this activity into \nmixtures, compounds, and elements.\nSample A: We can say that Sample A is a mixture of the two \nelements—iron and sulfur. Its components retain their properties, \nand their black and yellow coloured particles can be seen. \nOn bringing magnet near Sample A, the iron filings get attracted \ntowards the magnet. Hence, iron and sulfur can be separated.\nYou might have observed that in Sample A, iron in the mixture \nreacts with dilute hydrochloric acid to form iron chloride and \nhydrogen gas. The gas is colourless, has no smell, and burns with \na ‘pop’ sound.",
+      "question": "How can we tell that a mixture of iron filings and sulfur is a mixture and not a compound, based on its reaction with a magnet and acid?",
+      "reference_answer": "In the mixture, the iron filings retain their magnetic properties and can be separated using a magnet, whereas in a compound, the elements lose their individual properties. Additionally, when dilute hydrochloric acid is added to the mixture, only the iron reacts to produce hydrogen gas, which burns with a 'pop' sound, showing that the components remain distinct.",
+      "key_points": [
+        "Iron filings in the mixture are attracted to a magnet and can be separated.",
+        "The components of the mixture retain their individual properties.",
+        "Only the iron in the mixture reacts with dilute hydrochloric acid to produce hydrogen gas."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess202",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess202",
+      "subject": "jess2dd",
+      "page": 9,
+      "passage": "Laxmi  in India. This means that even\nif we remove a lot of people from\nagricultural sector and provide them\nwith proper work elsewhere,\nagricultural production will not\nsuffer. The incomes of the people who\ntake up other work would increase\nthe total family income.\nThis underemployment can also\nhappen in other sectors. For\nexample there are thousands of\ncasual workers in the service\nsector in urban areas who search\nfor daily employment. They are\nemployed as painters, plumbers,\nrepair persons and others doing\nodd jobs. Many of them don’t find\nwork everyday. Similarly , we see\nother people of the service sector\non the street pushing a cart or\nselling something where they may\nspend the whole day but earn\nvery little.  They are doing this\nwork because they do not have\nbetter opportunities.\nReprint 2026-27",
+      "question": "How does underemployment show up in the service sector in cities, and why do people end up doing these jobs?",
+      "reference_answer": "In urban service sectors, underemployment is seen in casual workers like painters or plumbers who search for daily work and often go without it, or street vendors who work all day for very little money. These individuals engage in such low-paying, irregular work because they lack access to better employment opportunities.",
+      "key_points": [
+        "Casual workers in urban service sectors (e.g., painters, plumbers) often cannot find work every day.",
+        "Street vendors or cart pushers may work all day but earn very little.",
+        "The primary reason for this underemployment is the lack of better opportunities."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc101",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc101",
+      "subject": "iesc1dd",
+      "page": 3,
+      "passage": "The aircraft was about 15,000 litres short of fuel and luckily could glide to an emergency landing, \nwhich damaged the aircraft though there were no casualties. Pounds and kilograms are very \ndifferent. Using standard (SI) units everywhere avoids conversions and errors. \nWhy is a kilogram used everywhere? \nWhen we buy rice or vegetables we expect a kilogram \nto mean the same amount everywhere (Fig. 1.1). Imagine \nthe confusion if we used different weights everywhere! \nThankfully, measurements are based on agreed \ninternational standards, not local objects or opinions. \nStandard units allow scientific results to be compared, \nand ensure fairness in daily life and trade.\nThreads of Curiosity\nFig. 1.1: A vegetable seller using a pan balance\nAs observations are repeated, measurements refined, and ideas tested \nthrough experiments, we can organise our understanding of the world \nin a systematic way. In the secondary stage, you will come across terms,",
+      "question": "Why is it important to use standard SI units like kilograms instead of local or different units for measuring things?",
+      "reference_answer": "Using standard SI units avoids confusion and errors that can arise from converting between different units, such as pounds and kilograms. It ensures that measurements mean the same amount everywhere, which is crucial for fairness in daily life and trade. Additionally, standard units allow scientific results to be compared consistently across different places.",
+      "key_points": [
+        "Avoids conversions and errors",
+        "Ensures measurements are consistent everywhere",
+        "Allows scientific results to be compared",
+        "Ensures fairness in daily life and trade"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest103",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest103",
+      "subject": "iest1dd",
+      "page": 2,
+      "passage": "40\nUnderstanding Society: \nIndia and Beyond \nGrade 9 – Part 1 \nComposition and Structure of  \nthe Atmosphere\nComposition of the Atmosphere\nThe Earth’s atmosphere is composed of a mixture of various gases. \nNitrogen and oxygen are the two primary and most abundant \ngases that are essential to life on the Earth. Carbon dioxide, argon, \nhelium, neon, krypton, xenon, ozone, and hydrogen are some other \ngases present in the atmosphere, but are found in lesser quantities. \nBesides these, the atmosphere also consists of water vapour and \ntiny dust particles. The amount of water vapour in the atmosphere \nvaries, but it generally ranges from 0.1 per cent to 0.4 per cent. It \nplays a significant role in cloud formation and precipitation. The \ncomposition of the atmosphere also varies with altitude. \nNitrogen 78%\nOxygen \n21%\nOthers 0.03%\nCarbon Dioxide 0.04% Argon 0.93%\nFig. 3.2. Composition of the atmosphere \nLET’S RECALL\nHow is nitrogen useful for plants? Remember that you learnt",
+      "question": "What are the main gases that make up the Earth's atmosphere and what are their approximate percentages?",
+      "reference_answer": "The Earth's atmosphere is primarily composed of nitrogen and oxygen, which are essential for life. Nitrogen makes up about 78% of the atmosphere, while oxygen accounts for 21%. The remaining small portion consists of other gases like argon, carbon dioxide, and water vapour.",
+      "key_points": [
+        "Nitrogen is the most abundant gas at 78%",
+        "Oxygen is the second most abundant gas at 21%",
+        "Other gases like argon and carbon dioxide make up the remaining small percentage"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess201",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess201",
+      "subject": "class 10 understanding economic development",
+      "page": 4,
+      "passage": "will notice one common thing: what\npeople desire are regular work, better\nwages, and decent price for their crops\nor other products that they produce.\nIn other words, they want more\nincome.\nBesides seeking more income, one-\nway or the other , people also seek\nthings like equal treatment, freedom,\nsecurity, and respect of others. They\nresent discrimination. All these are\nimportant goals. In fact, in some cases,\nthese may be more important than\nmore income or more consumption\nbecause material goods are not all\nthat you need to live.\nMoney, or material things that one\ncan buy with it, is one factor on which\nour life depends. But the quality of our\nlife also depends on non-material\nthings mentioned above.  If it is not\nobvious to you, then just think of the\nrole of your friends in your life. You\nmay desire their friendship.  Similarly,\nthere are many things that are not\neasily measured but they mean a lot\nto our lives. These are often ignored.",
+      "question": "Why is it important to consider non-material factors like respect and security alongside income when thinking about a good life?",
+      "reference_answer": "While money is necessary for survival, the quality of life also depends on non-material aspects such as equal treatment, freedom, and security. These factors are often more important than material goods because they address needs that cannot be bought, such as the value of friendship and social respect.",
+      "key_points": [
+        "Quality of life depends on both material and non-material factors",
+        "Non-material factors include equal treatment, freedom, security, and respect",
+        "Material goods alone are not sufficient for a complete life"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest105",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest105",
+      "subject": "iest1dd",
+      "page": 24,
+      "passage": "118\nUnderstanding Society: \nIndia and Beyond  \nGrade 9 – Part 1\nand advice on kingship and governance, reinforcing the enduring \nconnection between ethics and political authority in Indian history.\nSocial Structures and Everyday Life\nVarṇa and Jāti\nIn previous grades, we learned about the varṇa system and its \nfourfold structure—brāhmaṇas,\n\t kṣhatriyas,\t vaiśhyas\n, and śhūdras. \nEarly Vedic texts do not indicate any fixed social status strictly \nbased on birth. Instead, it is generally agreed that social identity \nwas shaped by several complex and overlapping factors, including \nethnicity, subgroups, geographic region, village affiliation, gotra \n(a kinship-based subgroup), language, and, especially occupation. \nWhile this system distinguished individuals and communities from \none another, it also connected them through shared social, economic, \nand cultural relationships. At this stage, occupations remained \nflexible and mobile, and the idea of strict hereditary occupations",
+      "question": "Was the varna system in early Vedic times strictly based on birth, and what factors actually determined a person's social identity?",
+      "reference_answer": "No, early Vedic texts do not indicate a fixed social status strictly based on birth. Instead, social identity was shaped by complex and overlapping factors such as ethnicity, geographic region, village affiliation, gotra, language, and especially occupation. At this stage, occupations were flexible and mobile rather than strictly hereditary.",
+      "key_points": [
+        "Early Vedic texts did not show a fixed status strictly based on birth.",
+        "Social identity was shaped by factors like ethnicity, region, gotra, language, and occupation.",
+        "Occupations were flexible and mobile, not strictly hereditary."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess205",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess205",
+      "subject": "class 10 understanding economic development",
+      "page": 8,
+      "passage": "Rs 7000 as compensation and\nlitigation cost.\nThe State Commission also restrained\nall the educational and professional\ninstitutions in the state from charging\nfees from students for the entire\nduration of the course in advance and\nthat too at one go. Any violation of this\norder may invite penalties and\nimprisonment, the commission said.\nif you buy a toothbrush. If you are not\ninterested in buying the brush, your\nright to choice is denied. Similarly ,\nsometimes gas supply dealers insist\nthat you have to buy the stove from\nthem when you take a new connection.\nIn this way many a times you are\nforced to buy things that you may not\nwish to and you are left with no choice.\nWhat do we understand from this\nincident? Any consumer who receives a\nservice in whatever capacity, regardless\nof age, gender and nature of service, has\nthe right to choose      whether to\ncontinue to receive the service.\nSuppose you want to buy\ntoothpaste, and the shop owner says\nthat she can sell the toothpaste only",
+      "question": "What is the right to choose for consumers, and can you give an example of how it might be violated?",
+      "reference_answer": "The right to choose means that any consumer, regardless of age, gender, or the type of service, has the freedom to decide whether to continue receiving a service or buying a product. This right is violated when a seller forces a customer to buy an unwanted item, such as a shopkeeper insisting that a customer must buy a toothbrush to get toothpaste, or a gas dealer requiring the purchase of a specific stove for a new connection.",
+      "key_points": [
+        "Consumers have the right to decide whether to continue receiving a service or buying a product.",
+        "This right applies to all consumers regardless of age, gender, or nature of service.",
+        "Violation occurs when customers are forced to buy unwanted items (e.g., buying a brush with toothpaste or a stove with gas connection)."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc102",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc102",
+      "subject": "jesc1dd",
+      "page": 5,
+      "passage": "Acids, Bases and Salts 21\nActivity 2.6Activity 2.6Activity 2.6Activity 2.6Activity 2.6\n/square6Take about 2 mL of dilute NaOH solution in a test tube and add\ntwo drops of phenolphthalein solution.\n/square6What is the colour of the solution?\n/square6Add dilute HCl solution to the above solution drop by drop.\n/square6Is there any colour change for the reaction mixture?\n/square6Why did the colour of phenolphthalein change after the addition\nof an acid?\n/square6Now add a few drops of NaOH to the above mixture.\n/square6Does the pink colour of phenolphthalein reappear?\n/square6Why do you think this has happened?\nOn passing excess carbon dioxide the following reaction takes place:\nCaCO s Ca(HCO aq3 3( ) ) ( )+ →H O(l)+ CO (g) 2 2 2\n(Soluble in water)\nLimestone, chalk and marble are different forms of calcium carbonate.\nAll metal carbonates and hydrogencarbonates react with acids to give a\ncorresponding salt, carbon dioxide and water.\nThus, the reaction can be summarised as –",
+      "question": "What are the products formed when metal carbonates react with acids?",
+      "reference_answer": "When metal carbonates react with acids, they produce a corresponding salt, carbon dioxide gas, and water. This reaction is a general characteristic of all metal carbonates and hydrogencarbonates.",
+      "key_points": [
+        "corresponding salt",
+        "carbon dioxide",
+        "water"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu107",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu107",
+      "subject": "8th_science_english",
+      "page": 17,
+      "passage": "(v) When we heat camphor in one corner of a room, the \nfragrance reaches all corners of the room.\n(vi) On heating, we are adding energy to the camphor, and \nthe energy is released as a smell.\n3. Choose the correct answer \nwith justification. If we could \nremove all the constituent particles from a chair, what would \nhappen?\n(i)\n Nothing will change.\n(ii) The chair will weigh less due to lost particles.\n(iii) Nothing of the chair will remain.\n4. Why do gases mix easily, while solids do not?\n5. When spilled on the \ntable, milk in a glass tumbler, flows and \nspreads out, but the glass tumbler stays in the same shape. \nJustify this statement.\n6.\n Represent diagrammatically the changes in \nthe arrangement \nof particles as ice melts and transforms into water vapour. \n7. Draw a picture representing particles present in the \nfollowing:\n(i)\n Aluminium foil\n(ii) Glycerin\n(iii) Methane gas\n8. Observe Fig. 7.16a which shows \nthe image of a candle that was just \nextinguished after burning",
+      "question": "Why does the smell of camphor spread to all corners of a room when it is heated?",
+      "reference_answer": "When camphor is heated, energy is added to it. This energy is then released in the form of a smell, which allows the fragrance to reach all corners of the room.",
+      "key_points": [
+        "Heating adds energy to the camphor",
+        "The energy is released as a smell",
+        "This release allows the fragrance to spread to all corners"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc112",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc112",
+      "subject": "iesc1dd",
+      "page": 5,
+      "passage": "(ii) The four hornbills look similar in some ways. What features can \nhelp scientists distinguish them from one another? \n(iii) What would happen if the large, old trees disappeared from the \nforest?\nMany organisms show similarities in their external features, internal \nstructure (such as tissues and organs) and cellular organisation. To make \nthe study of such vast diversity easier , scientists group organisms based \non their similarities and/or differences. This grouping helps to organise \ninformation, understand relationships among organisms and study life in \na systematic manner . This scientific system of grouping living organisms is \nknown as biological classification.\nBiological classification helps us in various ways, such as — \n1. It makes the study of living organisms more organised and \nsystematic.\n2. It helps us understand the similarities and differences among living \nbeings. \n3. It helps us understand how different organisms are related to one",
+      "question": "Why do scientists group living organisms together and what is this process called?",
+      "reference_answer": "Scientists group organisms based on their similarities and differences to make the study of vast diversity easier and more systematic. This grouping helps in organizing information and understanding the relationships between different living beings. This scientific system of grouping is known as biological classification.",
+      "key_points": [
+        "Grouping is based on similarities and/or differences",
+        "It makes the study of organisms organized and systematic",
+        "It helps understand relationships among organisms",
+        "The process is called biological classification"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess301",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess301",
+      "subject": "class 10th india and contemporary world 2",
+      "page": 20,
+      "passage": "formed a secret society called Young Italy for the dissemination of\nhis goals. The failure of revolutionary uprisings both in 1831 and\n1848 meant that the mantle now fell on Sardinia-Piedmont under\nits ruler King Victor Emmanuel II to unify the Italian states through\nwar. In the e yes of  the r uling elites of  this r egion, a unif ied\nItaly offered them the possibility of economic development and\npolitical dominance.\nFig. 13 — Caricature of Otto von Bismarck in\nthe German reichstag (parliament), from Figaro,\nVienna, 5 March 1870.\nDescribe the caricature. How does it represent\nthe relationship between Bismarck and the\nelected deputies of Parliament? What\ninterpretation of democratic processes is the\nartist trying to convey?\nActivity\nNORTH SEA\nSCHLESWIG-\nHOLSTEIN\nMECKLENBURG-\nSCHWERIN\nTHURINGIAN\nSTATES\nHANOVER\nWESTPHALIA\nHESSEN  NASSA\nRHINELAND\nBRUNSWICK\nBAVARIABADEN\nWURTTEMBERG\nAUSTRIAN\nEMPIRE\nSILESIA\nPOSEN\nBRANDENBURG\nPOMERANIA WEST PRUSSIA\nEAST PRUSSIA\nBALTIC SEA\nPRUSSIA\nRUSSIAN",
+      "question": "Why did King Victor Emmanuel II of Sardinia-Piedmont take on the task of unifying Italy after the failed uprisings of 1831 and 1848?",
+      "reference_answer": "After the revolutionary uprisings in 1831 and 1848 failed, the responsibility for unifying Italy shifted to Sardinia-Piedmont under King Victor Emmanuel II. The ruling elites of this region supported unification because they believed a unified Italy would bring them economic development and political dominance.",
+      "key_points": [
+        "The responsibility fell on Sardinia-Piedmont after the failures of 1831 and 1848.",
+        "King Victor Emmanuel II was the ruler of Sardinia-Piedmont.",
+        "The ruling elites wanted unification for economic development.",
+        "The ruling elites wanted unification for political dominance."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess204",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess204",
+      "subject": "jess2dd",
+      "page": 1,
+      "passage": "NOTES FOR THE TEACHERNOTES FOR THE TEACHERNOTES FOR THE TEACHERNOTES FOR THE TEACHERNOTES FOR THE TEACHER\nMost regions of the world are getting increasingly\ninterconnected. While this interconnectedness\nacross countries has many dimensions —\ncultural, political, social and economic — this\nchapter looks at globalisation in a more limited\nsense. It defines globalisation as the integration\nbetween countries through foreign trade and\nforeign investments by multinational\ncorporations (MNCs). As you will notice, the more\ncomplex issues of portfolio investment have been\nleft out.\nIf we look at the past thirty years or so, we\nfind that MNCs have been a major force in the\nglobalisation process connecting distant regions\nof the world. Why are the MNCs spreading their\nproduction to other countries and what are the\nways in which they are doing so? The first part\nof the chapter discusses this. Rather than\nrelying on quantitative estimates, the rapid rise\nand influence of the MNCs has been shown",
+      "question": "How does the chapter define globalisation, and what role do MNCs play in it?",
+      "reference_answer": "The chapter defines globalisation as the integration between countries through foreign trade and foreign investments by multinational corporations (MNCs). MNCs are described as a major force in the globalisation process over the past thirty years, connecting distant regions of the world by spreading their production to other countries.",
+      "key_points": [
+        "Globalisation is defined as integration through foreign trade and foreign investments by MNCs.",
+        "MNCs are a major force in the globalisation process.",
+        "MNCs connect distant regions by spreading production to other countries."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess401",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess401",
+      "subject": "jess4dd",
+      "page": 7,
+      "passage": "But under the present system, the top position is out of his reach. He does not practise \neither his father’s or his mother’s religion and does not wish to be known by either. He \ncannot understand why Lebanon can’t be like any other ‘normal’ democracy. “Just hold \nan election, allow everyone to contest and whoever wins maximum votes becomes the \npresident, no matter which community he comes from. Why can’t we do that, like in \nother democracies of the world?” he asks. His elders, who have seen the bloodshed of \nthe civil war, tell him that the present system is the best guarantee for peace…”\nThe story was not finished, but they had reached the TV tower \nwhere they stopped every day. Vetal wrapped up quickly \nand posed his customary question to Vikram: “If \nyou had the power to rewrite the rules \nin Lebanon, what would you do? Would \nyou adopt the ‘regular’ rules followed \neverywhere, as Khalil suggests? Or stick to \nthe old rules? Or do something else?” Vetal",
+      "question": "Why do the elders in Lebanon prefer the current political system over a standard democracy where anyone can run for president?",
+      "reference_answer": "The elders believe that the present system is the best guarantee for peace. They hold this view because they have witnessed the bloodshed caused by the civil war, suggesting that a 'normal' democracy might lead to similar violence.",
+      "key_points": [
+        "The current system is seen as the best guarantee for peace.",
+        "Elders have experienced the bloodshed of the civil war.",
+        "They fear that a standard democracy could lead to conflict."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp107",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp107",
+      "subject": "hegp1dd",
+      "page": 0,
+      "passage": "Here are the extracted mathematical formulas in LaTeX/markdown format, along with the multilingual text preserved accurately:\n\n1. **Mixing Blue and Yellow Paints:**\n- Ratio of blue to yellow:\n\\[\n\\text{Blue : Yellow} = 3 : 5\n\\]\n- Amount of blue paint used:\n\\[\n\\text{Blue paint used} = 15 \\, \\text{mL}\n\\]\n- Amount of yellow paint used:\n\\[\n\\text{Yellow paint used} = 25 \\, \\text{mL}\n\\]\n- New ratio of blue to yellow after adding 20 mL of yellow:\n\\[\n\\text{New ratio of blue to yellow} = 1 : 3\n\\]\n\n2. **Mixing Rice and Urad Dal for Idlis:**\n- Ratio of rice to urad dal:\n\\[\n\\text{Rice : Urad Dal} = 2 : 1\n\\]\n- Amount of rice needed:\n\\[\n\\text{Rice needed} = 4 \\, \\text{cups}\n\\]\n- Amount of urad dal needed:\n\\[\n\\text{Urad dal needed} = 2 \\, \\text{cups}\n\\]",
+      "question": "If I use 15 mL of blue paint and mix it with yellow paint in a 3:5 ratio, how much yellow paint do I need? Also, if I add 20 mL more yellow paint to this mixture, what will be the new ratio of blue to yellow?",
+      "reference_answer": "To maintain a 3:5 ratio with 15 mL of blue paint, you need 25 mL of yellow paint. If you add 20 mL of yellow paint to the existing 25 mL, the total yellow paint becomes 45 mL. The new ratio of blue (15 mL) to yellow (45 mL) simplifies to 1:3.",
+      "key_points": [
+        "25 mL of yellow paint is needed initially",
+        "Total yellow paint becomes 45 mL after adding 20 mL",
+        "The new ratio is 1:3"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess403",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess403",
+      "subject": "class 10  Democratic Politics",
+      "page": 5,
+      "passage": "work, from sports and cinema, to \nfactories and fields, women are paid \nless than men, even when both do \nexactly the same work.\n \n In many parts of India, parents \nprefer \nto have sons and find ways to \nhave the girl child aborted before \nshe is born. Such sex-selective \nabortion led to a decline in child sex \nratio (number of girl children per \nthousand boys) in the country to \nmerely 919. As the map shows, this \nCan you identify \nyour State on this \nmap? What is the \nchild sex ratio in \nit? How is it  \ndifferent from  \nothers with a  \ndifferent colour?\nIdentify the States \nwhich have child \nsex ratio below \n900.\nCompare this map \nwith the poster \non the next page. \nHow do the two of \nthem tell us about \nthe same issue?\nSource: Census Report of 2011\nChapter 3.indd   33 08-04-2022   14:15:25\nReprint 2026-27",
+      "question": "What is the child sex ratio in India according to the 2011 Census, and what is the main reason given for its decline?",
+      "reference_answer": "According to the 2011 Census, the child sex ratio in India declined to 919 girl children per thousand boys. This decline is attributed to sex-selective abortion, where parents in many parts of India prefer sons and abort female fetuses before birth.",
+      "key_points": [
+        "The child sex ratio is 919 girls per 1000 boys.",
+        "The data is from the 2011 Census.",
+        "The decline is caused by sex-selective abortion due to a preference for sons."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess103",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess103",
+      "subject": "class 10 contemporary india social science",
+      "page": 3,
+      "passage": "Government of India has accorded highest\npriority to improve the quality of life and\nenhance ease of living of people especially those\nliving in rual areas by announcing the Jal\nJeevan Mission (JJM). The Goal of JJM is to\nenable every rural household get assured\nsupply of potable piped water at a service level\nof 55 litres per capita per day regularly on\nlong-term basis by ensuring functionality of\nthe tap water connections. (Source: Economic\nSurvey 2020–21, p.357)\nYou may have already realised that the need\nof the hour is to conserve and manage our\nwater resources, to safeguard ourselves from\nhealth hazards, to ensure food security,\ncontinuation of our livelihoods and productive\nactivities and also to prevent degradation of our\nnatural ecosystems. Over exploitation and\nmismanagement of water resources will\nimpoverish this resource and cause ecological\ncrisis that may have profound impact on\nour lives.\nFrom your everyday experiences, write a short",
+      "question": "What is the main goal of the Jal Jeevan Mission regarding water supply to rural households?",
+      "reference_answer": "The goal of the Jal Jeevan Mission is to ensure that every rural household receives a regular, long-term supply of potable piped water. This service level is defined as 55 litres per capita per day, with a focus on keeping the tap water connections functional.",
+      "key_points": [
+        "Every rural household gets assured supply of potable piped water",
+        "Service level is 55 litres per capita per day",
+        "Supply must be regular and on a long-term basis",
+        "Functionality of tap water connections is ensured"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess106",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess106",
+      "subject": "class 10 contemporary india social science",
+      "page": 9,
+      "passage": "stress.  Industrial and construction activities,\nmachinery, factory equipment, generators,\nsaws and pneumatic and electric drills also\nmake a lot of noise.\nControl of Environmental Degradation\nEvery litre of waste water discharged by our\nindustry pollutes eight times the quantity of\nfreshwater. How can the industrial pollution of\nfresh water be reduced? Some suggestions are-\n(i) minimising use water for processing by\nreusing and recycling it in two or more\nsuccessive stages\n(ii) harvesting of rainwater to meet water\nrequirements\n(iii) treating hot water and  effluents before\nreleasing them in rivers and ponds.\nTreatment of industrial ef fluents can be\ndone in three phases\n(a) Primary treatment by mechanical means.\nThis involves screening, grinding,\nflocculation and sedimentation.\n(b) Secondary treatment by biological process\n(c) Tertiary treatment by biological,\nchemical and physical processes. This\ninvolves recycling of wastewater.\nOverdrawing of ground water reserves by",
+      "question": "What are the three phases of treating industrial effluents and what methods are used in each?",
+      "reference_answer": "The treatment of industrial effluents is done in three phases: primary, secondary, and tertiary. Primary treatment uses mechanical means like screening, grinding, flocculation, and sedimentation. Secondary treatment relies on biological processes, while tertiary treatment combines biological, chemical, and physical processes to recycle wastewater.",
+      "key_points": [
+        "Primary treatment uses mechanical means (screening, grinding, flocculation, sedimentation)",
+        "Secondary treatment uses biological processes",
+        "Tertiary treatment uses biological, chemical, and physical processes for recycling"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees107",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees107",
+      "subject": "8th_social_english",
+      "page": 8,
+      "passage": "170\nExploring Society: India and Beyond | Grade 8 Part 1\nTHINK ABOUT IT \n Æ Shivay, a student at Saraswati Vidyalaya in Grade 8, \nhad to drop out of school two years back as his father \nlost his job. How do you think the loss of schooling\n \nyears will affect Shivay when he grows up?\n Æ What problems could businesses face when they do \nnot find workers with the required skills?\nAccording to the Economic Survey of\n \nIndia 2024, 65 per cent of people in \nIndia are below the age of 35 years. \nThis means that India has a young, \nproductive population, which may \nhelp the country reap the benefits \nof a demographic dividend. The \ndemographic dividend refers to \nthe benefit a country gets when it \nhas a large number of young and \nworking people. When more people \nare working and earning, and fewer \npeople depend on them, the country \ncan grow businesses and improve living standards. To take \nadvantage of this potential, individuals must have access to",
+      "question": "What is a demographic dividend and how does it help a country's economy?",
+      "reference_answer": "A demographic dividend is the benefit a country receives when it has a large number of young and working people. It helps the economy because when more people are working and earning while fewer depend on them, the country can grow businesses and improve living standards.",
+      "key_points": [
+        "It is the benefit from having a large number of young and working people.",
+        "It occurs when more people are working/earning and fewer are dependent.",
+        "It allows the country to grow businesses and improve living standards."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess404",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess404",
+      "subject": "jess4dd",
+      "page": 7,
+      "passage": "52\nDemocratic Politics\nPopular \ninpolitical parties \nparticipation It is often said that political parties are facing a \ncrisis because they are very unpopular and the \ncitizens are indifferent to political parties. The \navailable evidence shows that this belief is only \npartly true for India. The evidence, based on a series of large \nsample surveys conducted over several decades, shows that:\n\n Political parties do not enjoy much trust among\n the people in \nSouth Asia. The proportion of those who say their trust in political \nparties is ‘not much’ or ‘not at all’ is more than those who have \n‘some’ or ‘great’ trust. \n\n The same is true of most other democracies as well. P\nolitical \nparties are one of the least trusted institutions all over the world.\n\n Yet the level of participation in the activities of \npolitical parties \nwas fairly high. The proportion of those who said they were \nmembers of some political party was higher in India than many",
+      "question": "Is it true that political parties are unpopular and people don't participate in them in India? What does the survey evidence say about trust and participation levels?",
+      "reference_answer": "The belief that political parties are unpopular and citizens are indifferent is only partly true for India. While surveys show that political parties are among the least trusted institutions in South Asia and globally, with more people expressing little or no trust than those with some or great trust, the level of participation in party activities remains fairly high. In fact, the proportion of people who are members of a political party is higher in India than in many other countries.",
+      "key_points": [
+        "The belief of unpopularity/indifference is only partly true for India.",
+        "Political parties are one of the least trusted institutions in South Asia and globally.",
+        "Participation in political party activities is fairly high in India.",
+        "The proportion of party members in India is higher than in many other countries."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu103",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu103",
+      "subject": "8th_science_english",
+      "page": 5,
+      "passage": "3.4.1 How are communicable diseases caused and spread?\nAll communicable diseases are caused by pathogens. These \npathogens can enter our body through the air we breathe or by \nconsuming contaminated food or water and more. But how do \nthese pathogens spread from one person to another? One common \nway is through air, when an infected person coughs or sneezes, or \nthrough direct contact like shaking hands, or indirectly by sharing \nFig. 3.4: Common methods of transmission of diseases\nInfected \nperson\nHealthy\nperson\nMosquitos/insects\nBy food\nDirect contact\nIndirect \ncontact\nBy air\nHealthy person\nRabid animal\nChapter 3.indd   32Chapter 3.indd   32 24-Sep-25   1:48:24 PM24-Sep-25   1:48:24 PM\nReprint 2026-27",
+      "question": "How do communicable diseases actually spread from one person to another?",
+      "reference_answer": "Communicable diseases are caused by pathogens that can enter the body through the air, contaminated food, or water. They spread from an infected person to a healthy one via the air (through coughing or sneezing), direct contact (like shaking hands), or indirect contact (such as sharing items).",
+      "key_points": [
+        "Caused by pathogens",
+        "Spread through air (coughing/sneezing)",
+        "Spread through direct contact (e.g., handshakes)",
+        "Spread through indirect contact or contaminated food/water"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu104",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu104",
+      "subject": "8th_science_english",
+      "page": 6,
+      "passage": "field \nis weak. As a result, the deflection of compass needle is less and the coil \ncan only attract a few clips. A battery with more cells gives a larger current \nas compared to that with a single cell. This creates a stronger magnetic field, \nso the deflection of the compass needle is more and the coil can attract \nmore clips. The increase in number of turns of the coil also makes the coil a \nstronger magnet! \nAlso, repeat Activity 4.4 by changing the direction of the current.  \nSo, the strength of an electromagnet can be changed by changing the amount \nof electric current flowing through the coil or the number of turns of the coil, \nor both. Also, its poles can be reversed by changing the direction of the current.\nDo you remember learning earlier (in the chapter ‘Exploring \nMagnets’ in Curiosity, Grade 6) that a freely suspended magnet rests \nalong the north–south direction because our Earth itself behaves \nlike a giant magnet? But why does Earth behave like a magnet? Deep",
+      "question": "How can we make an electromagnet stronger, and how do we change which end is the north pole?",
+      "reference_answer": "The strength of an electromagnet can be increased by increasing the amount of electric current flowing through the coil or by increasing the number of turns in the coil. The poles of the electromagnet can be reversed by changing the direction of the current.",
+      "key_points": [
+        "Strength increases with more current",
+        "Strength increases with more turns in the coil",
+        "Poles reverse when current direction changes"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc105",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc105",
+      "subject": "class 10 science",
+      "page": 5,
+      "passage": "Activity 5.2Activity 5.2Activity 5.2Activity 5.2Activity 5.2\nBased on the two activities performed above, can we design an\nexperiment to demonstrate that sunlight is essential for photosynthesis?\nSo far, we have talked about how autotr ophs meet their ener gy\nrequirements. But they also need other raw materials for building their\nbody. Water used in photosynthesis is taken up fr om the soil by the\nroots in terrestrial plants. Other materials like nitrogen, phosphorus,\niron and magnesium are taken up from the soil. Nitrogen is an essential\nelement used in the synthesis of proteins and other compounds. This is\nFigure 5.4 Experimental set-up (a) with potassium\nhydroxide (b) without potassium hydroxide\n(a) (b)\nReprint 2026-27",
+      "question": "Besides water, what other raw materials do plants take from the soil, and why is nitrogen specifically important for them?",
+      "reference_answer": "Plants take up nitrogen, phosphorus, iron, and magnesium from the soil. Nitrogen is an essential element because it is used in the synthesis of proteins and other compounds.",
+      "key_points": [
+        "Plants absorb nitrogen, phosphorus, iron, and magnesium from the soil.",
+        "Nitrogen is essential for the synthesis of proteins and other compounds."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc106",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc106",
+      "subject": "iesc1dd",
+      "page": 12,
+      "passage": "a vehicle\nFig. 6.20: Cracking a \ncoconut in one go\nHave you ever attempted cracking a fresh coconut in one \ngo? It is brought down at a very high velocity to hit a hard \nsurface (Fig. 6.20). When the coconut hits the ground, it stops in \na very short time. To change its velocity so quickly, the ground \nmust exert a very large force on it. This large force breaks the \nshell.\nExample 6.4: A weight lifter is holding a barbell with mass of 10 kg fixed on \neach side of the bar (Fig. 6.8). The mass of the bar itself is 10 kg. How much \nforce is she applying to keep the barbell steady?\nAnswer: The total mass of the barbell is 30 kg. The gravitational force due to \nthe Earth, acting on the barbell in the downward direction is (using Eq. 6.3),\nF  = mg = 30 kg × 9.8 m s\n–2 = 294 N\nTo keep the barbell steady, the weightlifter has to apply an equal force \nin the opposite direction. So, she is applying 294 N in the upward direction.",
+      "question": "Why does a coconut break when it is dropped from a height and hits the ground?",
+      "reference_answer": "When the coconut hits the ground, it stops in a very short time. To change its velocity so quickly, the ground must exert a very large force on it. This large force is what breaks the shell.",
+      "key_points": [
+        "The coconut stops in a very short time upon impact.",
+        "A large force is required to change its velocity so quickly.",
+        "The ground exerts this large force on the coconut.",
+        "This large force breaks the shell."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc101",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc101",
+      "subject": "jesc1dd",
+      "page": 2,
+      "passage": "/square6Add dilute hydrochloric acid or sulphuric acid to this\n(Fig. 1.2).\nCAUTION: Handle the acid with care.\n/square6Do you observe anything happening around the zinc\ngranules?\n/square6Touch the conical flask or test tube. Is there any change in\nits temperature?\n/square6Take lead nitrate\nsolution in a test\ntube.\n/square6Add potassium\niodide solution\nto this.\n/square6What do you\nobserve?\n1.1 CHEMIC1.1 CHEMIC1.1 CHEMIC1.1 CHEMIC1.1 CHEMIC AL EQUA AL EQUAAL EQUA AL EQUAAL EQUA TIONS TIONSTIONSTIONSTIONS\nActivity 1.1 can be described as – when a magnesium ribbon is burnt in\noxygen, it gets converted to magnesium oxide. This description of a\nchemical reaction in a sentence form is quite long. It can be written in a\nshorter form. The simplest way to do this is to write it in the form of a\nword-equation.\nThe word-equation for the above reaction would be –\nMagnesium + Oxygen → Magnesium oxide (1.1)\n            (Reactants) (Product)",
+      "question": "What is a word equation and how is it used to represent a chemical reaction?",
+      "reference_answer": "A word equation is a shorter, simpler way to describe a chemical reaction compared to writing it out in a full sentence. It lists the reactants on the left side and the products on the right side, separated by an arrow. For example, the burning of magnesium is written as Magnesium + Oxygen → Magnesium oxide.",
+      "key_points": [
+        "It is a shorter form of describing a chemical reaction.",
+        "It uses reactants and products separated by an arrow.",
+        "It is simpler than a full sentence description."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc107",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc107",
+      "subject": "iesc1dd",
+      "page": 13,
+      "passage": "Exploration|Grade 9\n128\nExample 7.8: What will be the magnitude of velocity of the child on reaching \nthe bottom of the slide of height h ?\nAnswer: Potential energy of the child at the top of the slide = mgh \nLet the magnitude of velocity of the child on reaching the bottom of the \nslide be v. Then, the kinetic energy of the child at the bottom of the slide \n21\n2= .mv\nThe potential energy of the child at the top of the slide gets converted \nentirely to the child’s kinetic energy at the bottom of the slide (neglecting \nthe effects of friction). Thus, equating the two, we obtain\n21\n2 =mv mgh\n( )= 2v gh\nAs this velocity of the child at the bottom of the slide depends only upon \nthe height h , the shape of the slide or the mass of the child should not matter.\nExample 7.9: Escape ramps (Fig. 7.21) are inclined planes filled with sand \nor gravel that help stop trucks when their brakes fail on a highway. A \ntruck of mass 10000 kg is moving at 72 km h –1 when its brakes fail. The",
+      "question": "If a child slides down a slide of height h, does the speed at the bottom depend on the mass of the child or the shape of the slide?",
+      "reference_answer": "No, the speed at the bottom does not depend on the mass of the child or the shape of the slide. It depends only on the height of the slide. This is because the potential energy at the top converts entirely into kinetic energy at the bottom, leading to a velocity determined solely by the height.",
+      "key_points": [
+        "Velocity depends only on height h",
+        "Mass of the child does not affect the final velocity",
+        "Shape of the slide does not affect the final velocity"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu109",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu109",
+      "subject": "8th_science_english",
+      "page": 16,
+      "passage": "quantity (100 mL) of a solution or a solvent at a particular temperature.\n  Generally, in liquids, the solubility of solids increases and that of gases \ndecreases with an increase in temperature.\n  The amount of matter present in an object is known as its mass.\n  The space occupied by an object or a substance is known as its volume.\n  Devices used to measure mass and volume are a weighing balance and a \nmeasuring cylinder, respectively.\n  The mass per unit volume of a substance is known as its density  \n(Density = Mass/Volume).\n  Generally, density decreases with an increase in temperature and \npressure affects density differently depending on the state of matter.\nKeep the curiosity alive\n1. State whether the statements given below are True [T] or \nFalse [F]. Correct the false statement(s).\n(i)\n Oxygen gas is more \nsoluble in hot water rather than in \ncold water.\n(ii) A mixture of sand and water is a solution.\n(iii) The amount of space occupied by any object is called its \nmass.",
+      "question": "How does temperature affect the solubility of solids and gases in liquids?",
+      "reference_answer": "In liquids, the solubility of solids generally increases when the temperature rises. Conversely, the solubility of gases decreases as the temperature increases.",
+      "key_points": [
+        "Solubility of solids increases with temperature",
+        "Solubility of gases decreases with temperature"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp104",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp104",
+      "subject": "hegp1dd",
+      "page": 0,
+      "passage": "Here are the extracted mathematical formulas in LaTeX/markdown format, along with the preserved multilingual text:\n\n1. **Congruence of Triangles:**\n\\[\n\\Delta ABD \\cong \\Delta CDB\n\\]\n\n2. **Properties of a Parallelogram:**\n- Property 1: The opposite sides of a parallelogram are equal.\n- Property 2: The opposite sides of a parallelogram are parallel.\n- Property 3: In a parallelogram, the adjacent angles add up to \\(180^\\circ\\), and the opposite angles are equal.\n\n3. **Angles:**\n- \\(150^\\circ\\)\n- \\(30^\\circ\\)\n\n4. **Lengths:**\n- \\(4 \\, \\text{cm}\\)\n- \\(5 \\, \\text{cm}\\)\n\n5. **Question about Diagonals:**\n- Are the diagonals of a parallelogram always equal? Check with the parallelogram that you have constructed.\n\n6. **Deduction about Diagonals:**\n- What is the point of intersection of the two diagonals in a parallelogram?\n\n7. **Congruence of Triangles in Parallelogram:**\n\\[\n\\Delta AOE \\cong \\Delta YOS\n\\]",
+      "question": "What are the main properties of a parallelogram regarding its sides and angles?",
+      "reference_answer": "In a parallelogram, the opposite sides are equal in length and parallel to each other. Additionally, the opposite angles are equal, and the adjacent angles add up to 180 degrees.",
+      "key_points": [
+        "Opposite sides are equal",
+        "Opposite sides are parallel",
+        "Opposite angles are equal",
+        "Adjacent angles sum to 180 degrees"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest108",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest108",
+      "subject": "iest1dd",
+      "page": 4,
+      "passage": "as food, medicines, and school supplies), non-essential items (such \nas jewellery, entertainment, and restaurant meals) and savings. \nGovernments use revenue from taxation to plan expenditure on \ninfrastructure and welfare programmes. Enterprises study market \ntrends and new innovations to better serve customers and maximise \nprofits. Economists study the available alternatives, associated \nopportunity costs, and potential outcomes to help individuals, \nenterprises, and institutions make decisions. They use data from \ngovernment reports such as economic surveys and financial \nstatements of companies, and their analysis helps to understand the \npotential risks and opportunities. The scope of their work includes: \nEconomy:  \nThe state of a \ncountry or region \nin terms of the \nproduction and \nconsumption \nof goods and \nservices, and the \nflow of money.\nSurveys: \nA systematic \nmethod for \ncollecting and \nanalysing data \nrelated to \nthe economic \nconditions and \nbehaviours of \npopulations.",
+      "question": "What is the main difference between how governments and enterprises use economic data for their decision-making?",
+      "reference_answer": "Governments use revenue from taxation to plan spending on infrastructure and welfare programs. In contrast, enterprises analyze market trends and new innovations to better serve customers and maximize their profits.",
+      "key_points": [
+        "Governments plan expenditure on infrastructure and welfare",
+        "Enterprises aim to serve customers and maximize profits",
+        "Enterprises study market trends and innovations"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc113",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc113",
+      "subject": "iesc1dd",
+      "page": 13,
+      "passage": "Exploration|Grade 9\n264\n13.3.3 Nitrogen cycle\nNitrogen is an essential element for the synthesis of proteins and nucleic \nacids in all living organisms. The largest reservoir of nitrogen is in our \natmosphere. However, nitrogen gas (N\n2) is rather non-reactive, and cannot \nbe directly used by plants and animals. It must first be converted to \nsoluble compounds that living beings can absorb. The overall movement \nof nitrogen between air, soil, water and organisms is called the nitrogen \ncycle (Fig. 13.15). The nitrogen cycle \ncontains several steps — nitrogen fixation, \nassimilation, ammonification, nitrification \nand denitrification.\nNitrogen-fixing bacteria, such as \nRhizobium in the root nodules of legumes \nand Azotobacter in the soil, convert \natmospheric N\n2 into ammonia (NH 3). \nNitrifying bacteria like Nitrosomonas \nconvert ammonia into nitrite ( NO\n–\n2), while \nNitrobacter convert nitrite into nitrate (NO–\n3). \nThis process is known as  nitrification .",
+      "question": "How do bacteria help in the nitrogen cycle, and what are the specific steps involved in nitrification?",
+      "reference_answer": "Nitrogen-fixing bacteria like Rhizobium and Azotobacter convert atmospheric nitrogen gas into ammonia. In the nitrification process, nitrifying bacteria first convert ammonia into nitrite, and then other bacteria convert that nitrite into nitrate.",
+      "key_points": [
+        "Nitrogen-fixing bacteria convert atmospheric N2 into ammonia",
+        "Nitrification involves converting ammonia into nitrite",
+        "Nitrification also involves converting nitrite into nitrate"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess405",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess405",
+      "subject": "class 10  Democratic Politics",
+      "page": 10,
+      "passage": "citizens value their democratic rights.\nExpectations from democracy \nalso function as the criteria for \njudging any democratic country. \nWhat is most distinctive about \ndemocracy is that its examination \nnever gets over. As democracy \npasses one test, it produces another \ntest. As people get some benefits of \ndemocracy, they ask for more and \nwant to make democracy even better. \nThat is why, when we ask people \nabout the way democracy functions, \nthey will always come up with more \nexpectations, and many complaints. \nThe fact that people are complaining \nis itself a testimony to the success of \ndemocracy: it shows that people have \ndeveloped awareness and the ability \nto expect and to look critically at \npower holders and the high and \nthe mighty. A public expression of \ndissatisfaction with democracy shows \nthe success of the democratic project: \nit transforms people from the status \nof a subject into that of a citizen. \nMost individuals today believe that",
+      "question": "Why does the text say that people complaining about democracy is actually a sign of its success?",
+      "reference_answer": "Complaints show that people have developed political awareness and the ability to critically examine those in power. This indicates that individuals have transformed from passive subjects into active citizens who value their democratic rights and expect more from the system.",
+      "key_points": [
+        "Complaints indicate people have developed awareness and critical thinking about power holders.",
+        "It shows the transformation of people from subjects to citizens.",
+        "It reflects that citizens value their democratic rights and expect improvements."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu112",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu112",
+      "subject": "8th_science_english",
+      "page": 5,
+      "passage": "194\nCuriosity — Textbook of Science for Grade 8\nFrom Activity 12.2, we can explain that the population is a group \nof the same type of organisms in a habitat at a given time. \nCan a habitat have only one type of living organism? What might \nhappen then? If all organisms are the same, they would have the \nsame requirements — food, water , space — leading to competition and \npossible scarcity of resources. What else do you think could happen?\nIn Activities 12.1 and 12.2, you observed that different \ngroup of organisms live together in a habitat. A community \ncomprises different populations sharing the same habitat. The \nbiotic components of a habitat, such as the plants, animals, and \nmicroorganisms together form the community. These organisms \ninteract and depend on one another for survival.\nEver heard of ...\nYou may have seen brightly coloured flowers blooming around you. \nHave you ever looked closely at their parts? A flower has a stalk, green",
+      "question": "What is the difference between a population and a community in a habitat?",
+      "reference_answer": "A population is a group of the same type of organisms living in a habitat at a specific time. A community consists of different populations of various organisms, such as plants, animals, and microorganisms, that share the same habitat and interact with one another.",
+      "key_points": [
+        "Population is a group of the same type of organisms",
+        "Community comprises different populations",
+        "Community includes biotic components like plants, animals, and microorganisms"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest101",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest101",
+      "subject": "iest1dd",
+      "page": 9,
+      "passage": "should be collected, how the army should function, and how rulers \nshould ensure the welfare of the people. \nOverall, Indian political thought adopted a holistic approach, linking \npolitics with economics, social life, morality, and defence. Power \nwas viewed as a responsibility rather than merely a privilege. This \ntradition helps us understand modern institutions, such as the \nPanchayati Raj system, which promotes local self-governance and \npublic participation at the village level. In this way, ancient ideas \ncontinue to shape India’s democratic practices today.\nOver the next two years, you will study major contemporary concepts \nand practices in Political Science, including democracy, elections, \nauthority, civil society, governance and public policy, and national \nsecurity and its challenges. However, a meaningful understanding \nof Political Science also requires your own efforts to observe and \nanalyse the political issues around you, along with their linkages",
+      "question": "How does the Panchayati Raj system connect to ancient Indian political thought?",
+      "reference_answer": "The Panchayati Raj system is a modern institution that promotes local self-governance and public participation at the village level. It reflects the ancient Indian tradition of viewing power as a responsibility and linking politics with social life and welfare, showing how these old ideas continue to shape India's democratic practices today.",
+      "key_points": [
+        "Panchayati Raj promotes local self-governance and public participation at the village level",
+        "It is an example of how ancient ideas continue to shape modern democratic practices",
+        "Ancient Indian political thought viewed power as a responsibility and linked politics with social welfare"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu110",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu110",
+      "subject": "8th_science_english",
+      "page": 6,
+      "passage": "Chapter 10 — Light: Mirrors and Lenses\n157\nconvex mirror is curved outside, it provides a much wider area \nof the road behind. Further, such convex mirrors are installed at \nroad intersections or sharp bends to provide drivers from both \nsides the visibility of the other side \nand prevent collisions (Fig. 10.7b). \nConvex mirrors are also installed \nin big stores to monitor a large \narea to deter thefts (Fig. 10.7c).\n10.3 What Are the Laws of Reflection?\nLet us now repeat an activity which we did earlier in grade 7, \nbut this time we will extend it further. Do you remember doing \nthe activity for observing the reflection of a beam of light from a \nplane mirror?\nActivity 10.4: Let us experiment\nWe have observed images formed by \nthree types of mirrors\n — plane, concave, \nand convex. But are there any laws \nwhich govern the image formation?\nFig. 10.8: A beam of light falling on a \nmirror (a) At one angle; \n(b) At another angle\n(a)\n(b)\n z Collect a plane mirror with stand, a torch, a",
+      "question": "Why are convex mirrors used at road intersections and in big stores?",
+      "reference_answer": "Convex mirrors are used at road intersections and sharp bends because they provide a wider area of the road behind, helping drivers see vehicles from the other side to prevent collisions. In big stores, they are installed to monitor a large area to help deter thefts.",
+      "key_points": [
+        "They provide a wider field of view/area.",
+        "At roads, they help prevent collisions by showing visibility from both sides.",
+        "In stores, they are used to monitor large areas to deter theft."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp203",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp203",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "4. For filling tanks:\n\\[\n\\text{Rate of filling} = \\frac{1 \\text{ tank}}{3 \\text{ hours}} \\quad \\text{(small pump)}\n\\]\n\\[\n\\text{Rate of filling} = \\frac{1 \\text{ tank}}{2 \\text{ hours}} \\quad \\text{(large pump)}\n\\]\nCombined rate when both pumps are used:\n\\[\n\\text{Combined rate} = \\frac{1}{3} + \\frac{1}{2} = \\frac{2}{6} + \\frac{3}{6} = \\frac{5}{6} \\text{ tanks per hour}\n\\]\nTime to fill one tank:\n\\[\nT = \\frac{1 \\text{ tank}}{\\frac{5}{6} \\text{ tanks/hour}} = \\frac{6}{5} \\text{ hours} = 1.2 \\text{ hours}\n\\]\n\n5. For the factory machines:\n\\[\n\\text{Machines required} = \\frac{\\text{Total work}}{\\text{Time available}} \\implies \\text{Machines} = \\frac{42 \\text{ machines} \\times 63 \\text{ days}}{54 \\text{ days}}\n\\]",
+      "question": "If a small pump takes 3 hours to fill a tank and a large pump takes 2 hours, how long will it take to fill the tank if both are used together?",
+      "reference_answer": "It will take 1.2 hours (or 6/5 hours) to fill the tank. This is calculated by adding their individual rates (1/3 + 1/2 = 5/6 tanks per hour) and then dividing the total work (1 tank) by this combined rate.",
+      "key_points": [
+        "The combined rate is 5/6 tanks per hour",
+        "The total time required is 1.2 hours or 6/5 hours"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees106",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees106",
+      "subject": "8th_social_english",
+      "page": 22,
+      "passage": "160\nExploring Society: India and Beyond | Grade 8 Part 1\nYet, our democracy grows stronger when citizens stay informed \nand engaged. By asking questions, sharing their views, and \nparticipating in public discussions, people help shape better \npolicies. Therefore, one of the best ways to overcome the \nchallenges India faces regarding its legislature, is to ensure that \nmany more citizens stay informed on matters of importance \nto society, participate in discussions through public debate \non digital spaces that various government departments offer \nduring policymaking processes, and constructively engaging \nwith political representatives on policies.  \nMany more young leaders and diverse voices are entering public \nlife, and technology is making it easier to stay connected and \ninvolved with governance. As future voters, your choices, and \nparticipation will play a key role in strengthening our Parliament \nand the assembly of the state you belong to, ensuring that they",
+      "question": "How can citizens help make our democracy stronger and overcome challenges related to the legislature?",
+      "reference_answer": "Citizens can strengthen democracy by staying informed about important social matters and actively participating in public discussions. They should engage in debates on digital platforms provided by government departments and interact constructively with political representatives regarding policies.",
+      "key_points": [
+        "Staying informed on matters of importance to society",
+        "Participating in public discussions and debates (including on digital spaces)",
+        "Constructively engaging with political representatives on policies"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu106",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu106",
+      "subject": "8th_science_english",
+      "page": 9,
+      "passage": "z Observe what happens to both the balloons. Did it happen as \npredicted?\n z Do you observe any change in the size of the balloons? Write \ndown your observations.\n....................................................................................................................\nWhat can be the reason for the change in the sizes of the \nballoons? The air pressure in the inflated balloon is higher \nthan that in the uninflated balloon. As a result, some air moves \nfrom the inflated balloon to the uninflated balloon, resulting in \nchanges in the size of both the balloons.\nDo you notice that after some time both the balloons attain \nalmost the same size and the flow of air stops? Why does the air \nflow stop? The flow of air continues till the air pressure in the \ninflated balloon is higher than the air pressure in the uninflated \nballoon. The air flow stops when the pressure in both balloons \nbecomes equal. At this stage, both balloons are almost of the",
+      "question": "Why does the air stop moving between two connected balloons when they are left for a while?",
+      "reference_answer": "Air flows from the inflated balloon to the uninflated one because the pressure is higher in the inflated balloon. This flow continues until the air pressure in both balloons becomes equal. Once the pressures are equal, the movement of air stops and the balloons reach almost the same size.",
+      "key_points": [
+        "Air moves from high pressure to low pressure",
+        "Flow stops when pressure in both balloons becomes equal",
+        "Balloons attain almost the same size at equilibrium"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu105",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu105",
+      "subject": "8th_science_english",
+      "page": 14,
+      "passage": "place. Weight, on the other hand, is the gravitational force \nwith which the Earth (or another planet) pulls an object. Since \ngravitational force can vary very slightly from place to place on \nthe Earth (and can be very different on different planets), weight \ncan change, but mass does not.\nWhat is the difference \nbetween weight and \nmass?\nA step further\nThe following table illustrates that although the mass of an object \nremains the same, its weight is different on the Earth, the Moon, and \nother planets.\nEarth Moon Mars Venus Jupiter\nMass of \nthe object 1 kg 1 kg 1 kg 1 kg 1 kg\nWeight of \nthe object 10 N 1.6 N 3.8 N 9 N 25.4 N\nA step further\nIn everyday life, particularly for the goods we commonly use, we \nare more interested in the amount of matter in an object (its mass), \nrather than the force applied by the Earth upon it (its weight). \nHowever, though while the units of mass are used, instead of the \nterm mass, the term weight is typically used. For example, it is said",
+      "question": "Why does the weight of an object change on different planets like the Moon or Mars, but its mass stays the same?",
+      "reference_answer": "Mass is the amount of matter in an object and remains constant regardless of location. Weight is the gravitational force exerted by a planet on the object, which varies because gravitational force differs from place to place and between different planets.",
+      "key_points": [
+        "Mass is the amount of matter and does not change.",
+        "Weight is the gravitational force pulling the object.",
+        "Gravitational force varies between different planets or locations."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess105",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess105",
+      "subject": "jess1dd",
+      "page": 13,
+      "passage": "becoming popular in rural and remote areas.\nSome big solar power plants are being\nestablished in differ\nent parts of India which\nwill minimise the dependence of rural\nhouseholds on firewood and dung cakes,\nwhich in turn will contribute to environmental\nconservation and adequate supply of manure\nin agriculture.\nFig. 5.10:  Solar operated electronic milk\ntesting equipment\nFig. 5.11:  Wind mills – Nagarcoil\nWind power\nIndia has great potential of wind power. The\nlargest wind farm cluster is located in T\namil\nNadu from Nagarcoil to Madurai. Apart from\nthese, Andhra Pradesh, Karnataka, Gujarat,\nKerala, Maharashtra and Lakshadweep have\nimportant wind farms. Nagarcoil and\nJaisalmer are well known for effective use of\nwind energy in the country.\nBiogas\nShrubs, farm waste, animal and human waste\nare used to produce biogas for domestic\nconsumption in rural areas. Decomposition\nof organic matter yields gas, which has higher\nthermal efficiency in comparison to kerosene,",
+      "question": "Which state has the largest wind farm cluster in India, and what are the main sources used to produce biogas in rural areas?",
+      "reference_answer": "The largest wind farm cluster in India is located in Tamil Nadu, specifically stretching from Nagarcoil to Madurai. Biogas in rural areas is produced using shrubs, farm waste, and animal or human waste.",
+      "key_points": [
+        "Largest wind farm cluster is in Tamil Nadu (Nagarcoil to Madurai)",
+        "Biogas is produced from shrubs, farm waste, and animal/human waste"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess102",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess102",
+      "subject": "jess1dd",
+      "page": 5,
+      "passage": "17FOREST AND W ILDLIFE R ESOURCES\nSacred groves - a wealth of diverse and rare\nspecies\nNature worship is an age old tribal belief based on\nthe premise that all creations of nature have to be\nprotected. Such beliefs have preserved several virgin\nforests in pristine form called Sacred Groves (the\nforests of God and Goddesses). These patches of\nforest or parts of large forests have been left\nuntouched by the local people and any interference\nwith them is banned.\nCertain societies revere a particular tree which\nthey have preserved from time immemorial. The\nMundas and the Santhal of Chota Nagpur region\nworship mahua ( Bassia latifolia) and kadamba\n(Anthocaphalus cadamba) trees, and the tribals of\nOdisha and Bihar worship the tamarind (Tamarindus\nindica) and mango (Mangifera indica) trees during\nweddings. To many of us, peepal and banyan trees\nare considered sacred.\nIndian society comprises several cultures, each\nwith its own set of traditional methods of conserving",
+      "question": "What are sacred groves and how do tribal beliefs help in their conservation?",
+      "reference_answer": "Sacred groves are patches of virgin forests that have been preserved in their pristine form due to the age-old tribal belief in nature worship. This belief holds that all creations of nature must be protected, leading local communities to leave these specific forest areas untouched and ban any interference with them.",
+      "key_points": [
+        "Sacred groves are virgin forests preserved in pristine form.",
+        "They are protected due to tribal beliefs in nature worship.",
+        "Local people leave these areas untouched and ban interference."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp205",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp205",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "3. When a fixed number (e.g., 2) is subtracted from every value, the average becomes:\n\\[\na - 2\n\\]\n\n4. When every value in the collection is doubled, the new average is:\n\\[\n2a\n\\]\n\nThe multilingual text has been preserved accurately.\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:\n\n1. Average formula:\n\\[\n\\text{Average} = \\frac{x_1 + x_2 + x_3 + \\ldots + x_n}{n} = a\n\\]\n\n2. New average after multiplying by a fixed number (5):\n\\[\n\\text{New Average} = \\frac{(5x_1) + (5x_2) + (5x_3) + \\ldots + (5x_n)}{n} = \\frac{(x_1 + x_2 + x_3 + \\ldots + x_n) \\times 5}{n} = 5a\n\\]\n\nThese formulas illustrate the concept of averages and how they change when all values in a dataset are multiplied by a constant.\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:\n\n1. For the average weight of the players:\n\\[\n\\text{Average weight of the players} = \\frac{\\text{Sum of weight of all players}}{\\text{Number of players}}\n\\]",
+      "question": "If I multiply every number in a list by 5, how does the average change?",
+      "reference_answer": "The new average becomes 5 times the original average. This is because multiplying every value by a constant factor results in the sum being multiplied by that same factor, which in turn multiplies the average by that factor.",
+      "key_points": [
+        "The new average is 5 times the original average",
+        "The average scales by the same factor as the data values"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc102",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc102",
+      "subject": "iesc1dd",
+      "page": 15,
+      "passage": "conditions are maintained. Cell culture is crucial for studying \nhow cells work and for the production of biochemicals, food, \nmedicines, vaccines, and more.\nBridging Science and Society\nThe processes of mitosis and meiosis must occur in a \nproper and controlled manner. What happens if meiosis \nand mitosis do not happen properly? If there is any error \nin these processes, it can lead to various problems in the \nbody of an organism.\nErrors in mitosis lead to uncontrolled cell divisions. \nThis can lead to the formation of tumours and abnormal \nnumber of chromosomes in body cells.\nErrors in meiosis may result in genetic disorders, \nwhich may be associated with developmental problems \nor distinctive physical features. Faulty meiosis may also \ncause early pregnancy loss or reduced fertility.\nNext\nLevel\nUp\nMeet a Scientist\nArun \nKumar \nSharma \nwas a \nfamous \nIndian \nscientist \nknown for \nhis work on chromosomes. \nAs a botanist, he is known \nfor his work in the area of",
+      "question": "What are the main differences between the problems caused by errors in mitosis and errors in meiosis?",
+      "reference_answer": "Errors in mitosis lead to uncontrolled cell division, which can cause tumours and an abnormal number of chromosomes in body cells. In contrast, errors in meiosis can result in genetic disorders with developmental or physical issues, as well as early pregnancy loss or reduced fertility.",
+      "key_points": [
+        "Mitosis errors cause uncontrolled cell division, tumours, and abnormal chromosome numbers in body cells.",
+        "Meiosis errors cause genetic disorders, developmental/physical problems, early pregnancy loss, or reduced fertility."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest102",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest102",
+      "subject": "iest1dd",
+      "page": 13,
+      "passage": "25\n2 – Shaping of the \nEarth’s Surface\nLET’S EXPLORE\nHave you heard about the Sundarbans delta? Try and explore its \nuniqueness and find out why it is popular with tourists.\nWaves and Currents\nWaves and currents are constantly moving over the oceanic surface. \nThey work in coastal areas and reshape the land along the coastal \nzone. The action of waves and currents creates a range of landforms \nalong the coastline, such as beaches, sand bars, sea cliffs, sea caves, \narches, and stacks. You will learn more about waves and currents in \nPart 2 of this textbook.\nA beach is a landform made up of sand, pebbles, or rocks along \nthe shoreline of a sea, ocean, or lake, created by the deposition of \nsediments by waves. Beaches are constantly shaped by wave action, \ntides, and currents, which move and deposit materials along the coast. \nFor humans, beaches are popular tourist destinations for relaxation, \nswimming, and recreation, which boosts the local economy. Beaches",
+      "question": "What are some examples of landforms that are created by the action of waves and currents along the coastline?",
+      "reference_answer": "The action of waves and currents creates various landforms along the coastline, including beaches, sand bars, sea cliffs, sea caves, arches, and stacks.",
+      "key_points": [
+        "Beaches",
+        "Sand bars",
+        "Sea cliffs",
+        "Sea caves, arches, and stacks"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp201",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp201",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "2. Equivalent forms of the fraction:\n\\[\n\\frac{24}{100} = \\frac{12}{50} = \\frac{6}{25} = \\frac{48}{200}\n\\]\n\n3. General expression for a percentage:\n\\[\nz\\% = \\frac{z}{100}\n\\]\n\n### Multilingual Text\n\n- \"Isn’t it the same as finding 2\\text{th} of 100?\"\n- \"Express the following fractions as percentages.\"\n- \"Nandini has 25 marbles, of which 15 are white. What percentage of her marbles are white?\"\n\nThis captures the mathematical content and the surrounding text accurately.\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:\n\n1. Percentage of students coming by walking:\n\\[\n\\text{Percentage} = \\left( \\frac{15}{80} \\right) \\times 100\n\\]\n\n2. Sugar content in Variety 1:\n\\[\n\\text{Sugar in Variety 1} = \\frac{9}{34}\n\\]\n\n3. Sugar content in Variety 2:\n\\[\n\\text{Sugar in Variety 2} = \\frac{13}{45}\n\\]\n\n4. Conversion of percentage to decimal:\n\\[\n31\\% = \\frac{31}{100} = 0.31\n\\]\n\n5. Conversion of fraction to percentage:\n\\[\n\\frac{9}{34} = 26.47\\% \\quad \\text{(per 100)}\n\\]",
+      "question": "How do I convert a fraction into a percentage? Can you show me with an example like 9/34?",
+      "reference_answer": "To convert a fraction to a percentage, you multiply the fraction by 100. For example, to convert 9/34, you calculate (9/34) × 100, which equals approximately 26.47%.",
+      "key_points": [
+        "Multiply the fraction by 100",
+        "The example 9/34 converts to 26.47%"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc108",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc108",
+      "subject": "jesc1dd",
+      "page": 3,
+      "passage": "Science130\nMendel used a number of contrasting visible characters of garden\npeas – round/wrinkled seeds, tall/short plants, white/violet flowers and\nso on.  He took pea plants with different characteristics – a tall plant and\na short plant, produced progeny by crossing them, and calculated the\npercentages of tall or short progeny.\nIn the first place, there were no halfway characteristics in this first-\ngeneration, or F1 progeny – no ‘medium-height’ plants. All plants were\ntall. This meant that only one of the parental traits\nwas seen, not some mixture of the two. So the next\nquestion was, were the tall plants in the F1\ngeneration exactly the same as the tall plants of the\nparent generation? Mendelian experiments test this\nby getting both the parental plants and these F1 tall\nplants to reproduce by self-pollination. The progeny\nof the parental plants are, of course, all tall. However,\nthe second-generation, or F2, progeny of the F1 tall",
+      "question": "Why did Mendel cross the F1 tall plants with themselves, and what did he find out about the F2 generation compared to the parental generation?",
+      "reference_answer": "Mendel self-pollinated the F1 tall plants to check if they were genetically identical to the original tall parents. While the offspring of the parental plants were all tall, the F2 progeny from the F1 plants showed a different pattern, indicating that the F1 plants were not exactly the same as the parental tall plants.",
+      "key_points": [
+        "Mendel self-pollinated F1 plants to test if they were identical to parental tall plants",
+        "Progeny of parental plants were all tall",
+        "F2 progeny from F1 plants differed from the parental outcome"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc104",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc104",
+      "subject": "jesc1dd",
+      "page": 10,
+      "passage": "4.2.5 Nomenclature of Carbon Compounds\nThe names of compounds in a homologous series are based on the name\nof the basic carbon chain modified by a “prefix” “phrase before” or “suffix”\n“phrase after” indicating the nature of the functional group. For example,\nthe names of the alcohols taken in Activity 4.2 are methanol, ethanol,\npropanol and butanol.\nNaming a carbon compound can be done by the following method –\n(i) Identify the number of carbon atoms in the compound. A compound\nhaving three carbon atoms would have the name propane.\n(ii) In case a functional group is present, it is indicated in the\nname of the compound with either a prefix or a suffix (as given\nin Table 4.4).\n(iii) If the name of the functional group is to be given as a suffix, and the\nsuffix of the functional group begins with a vowel a, e, i, o, u, then\nthe name of the carbon chain is modified by deleting the final ‘e’ and\nadding the appropriate suffix. For example, a three-carbon chain",
+      "question": "How do we name a carbon compound if it has a functional group that is added as a suffix starting with a vowel?",
+      "reference_answer": "When the suffix for a functional group begins with a vowel (a, e, i, o, u), the final 'e' of the carbon chain name is deleted before adding the suffix. For example, a three-carbon chain (propane) would lose its 'e' to become 'propan' before the suffix is attached.",
+      "key_points": [
+        "The final 'e' of the carbon chain name is deleted.",
+        "This rule applies when the functional group suffix starts with a vowel (a, e, i, o, u).",
+        "The appropriate suffix is then added to the modified chain name."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc111",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc111",
+      "subject": "iesc1dd",
+      "page": 7,
+      "passage": "petals (Fig. 11.10). Do all flowers have these \ntwo parts? What are the other parts of a flower?\nActivity 11.5: Let us explore\n1. Collect different types of flowers from your surroundings.\n2. Carefully observe each part of the flowers you have collected, starting \nfrom the outer whorl to the inner one.\n3. Record the presence of various floral parts in the different flowers  \nthat you collected in Table 11.1.\nTable 11.1: Observation table to study the parts of a flower\nS. No. Flower parts\nPresence of floral parts in different \nflowers Other \nfeature(s)\nGuess the \nfunction of \nflower partA B C D\n1. Sepal Yes\n2. Petal Yes\n3. Stamen No\n4. Pistil Yes\nFig. 11.10: Longitudinal section of a flower \nshowing its different parts\nPetal Pistil\nSepal\nStyle\nOvary\nAnther\nStamen\nFilament\nStigma\nChapter-11.indd   214Chapter-11.indd   214 03-Apr-26   8:08:49 PM03-Apr-26   8:08:49 PM",
+      "question": "What are the main parts of a flower that we can see in a longitudinal section?",
+      "reference_answer": "The main parts of a flower include the sepals, petals, stamen, and pistil. The stamen consists of the anther and filament, while the pistil is made up of the stigma, style, and ovary.",
+      "key_points": [
+        "Sepals and petals are outer parts",
+        "Stamen consists of anther and filament",
+        "Pistil consists of stigma, style, and ovary"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc112",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc112",
+      "subject": "class 10 science",
+      "page": 8,
+      "passage": "Science202\n12.3 12.312.3 12.312.3 FORCE ON A CURRENTFORCE ON A CURRENTFORCE ON A CURRENTFORCE ON A CURRENTFORCE ON A CURRENT ---\n--C CCCCARRYING CONDUCTORARRYING CONDUCTORARRYING CONDUCTORARRYING CONDUCTORARRYING CONDUCTOR\nIN A MAGNETIC FIELDIN A MAGNETIC FIELDIN A MAGNETIC FIELDIN A MAGNETIC FIELDIN A MAGNETIC FIELD\nWe have lear nt that an electric curr\nent flowing through a conductor\nproduces a magnetic field. The field so produced exerts a force on a\nmagnet placed in the vicinity of the conductor. French scientist Andre\nMarie Ampere (1775–1836) suggested that the magnet must also exert\nan equal and opposite force on the current-carrying conductor. The force\ndue to a magnetic field acting on a current-carrying conductor can be\ndemonstrated through the following activity.\n3. Choose the correct option.\nThe magnetic field inside a long straight solenoid-carrying current\n(a) is zero.\n(b) decreases as we move towards its end.\n(c) increases as we move towards its end.",
+      "question": "Who suggested that a magnet exerts an equal and opposite force on a current-carrying conductor, and what is the name of this scientist?",
+      "reference_answer": "The French scientist Andre Marie Ampere suggested that a magnet exerts an equal and opposite force on a current-carrying conductor. He lived from 1775 to 1836.",
+      "key_points": [
+        "Andre Marie Ampere",
+        "French scientist",
+        "Equal and opposite force"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess101",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess101",
+      "subject": "jess1dd",
+      "page": 3,
+      "passage": "local levels.\ntechnology and institutions may hinder\ndevelopment. There are many regions in our\ncountry that are rich in resources but these\nare included in economically backward\nregions. On the contrary there are some regions\nwhich have a poor resource base but they are\neconomically developed.\nCan you name some resource rich but\neconomically backward regions and some\nresource poor but economically developed\nregions? Give reasons for such a situation.\nThe history  of colonisation reveals that\nrich resources in colonies were the main\nattractions for the foreign invaders. It was\nprimarily the higher level of technological\ndevelopment of the colonising countries that\nhelped them to exploit resources of other\nregions and establish their supremacy over\nthe colonies. Therefore, resources can\ncontribute to development only when they are\naccompanied by appropriate technological\ndevelopment and institutional changes. India\nhas experienced all this in different phases of",
+      "question": "Why do some regions in India that are rich in natural resources remain economically backward, while others with fewer resources are developed?",
+      "reference_answer": "Resources alone are not enough for development; they must be accompanied by appropriate technological development and institutional changes. Without these factors, even resource-rich regions can remain economically backward, while regions with a poor resource base can still develop if they have the right technology and institutions.",
+      "key_points": [
+        "Resources contribute to development only when accompanied by appropriate technological development.",
+        "Institutional changes are also necessary for resources to aid development.",
+        "Lack of technology and institutions can hinder development despite resource richness."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu113",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu113",
+      "subject": "8th_science_english",
+      "page": 2,
+      "passage": "where all life on Earth \nactually exists? All the \nmountains, rivers, forests, \nanimals, and people are \nfound on just a very thin \nlayer on the surface of our \nplanet. From the tallest \nmountain to the deepest \nocean trench, the crust, \nwhere all of life exists, is \ntiny compared to the size of \nEarth. If Earth were the size \nof an apple, the crust would \nbe as thin as the apple’s \nskin as shown in Fig. 13.1. \nThis delicate, life supporting layer is what makes Earth truly \nspecial.\ncrust\nFig. 13.1: The Earth’s crust is like the thin skin of an apple  \nCrust\nUpper mantle\nLower mantle\nOuter core\nInner core\nChapter 13.indd   211Chapter 13.indd   211 01-07-2025   12:21:2401-07-2025   12:21:24\nReprint 2026-27",
+      "question": "How thin is the Earth's crust compared to the whole planet, and why is this layer important?",
+      "reference_answer": "The Earth's crust is extremely thin compared to the planet's total size, similar to the skin of an apple if Earth were that size. This layer is crucial because it is the only place where all life on Earth, including mountains, rivers, forests, animals, and people, exists.",
+      "key_points": [
+        "Crust is very thin compared to Earth's size (like apple skin)",
+        "All life exists on the crust",
+        "Crust is the life-supporting layer"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest106",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest106",
+      "subject": "iest1dd",
+      "page": 18,
+      "passage": "such as Chaudhary Charan Singh and Babu Jagjivan Ram, who \nemerged from these rural backgrounds, advocated for the rights \nof the rural poor and other marginalised sections of society.\nExplore and discuss the contributions of eminent Indian leaders \nwho worked towards strengthening grassroots democracy. \nChallenges to Democratic Practices in India\nDemocracy requires constant care, awareness, and active  \nparticipation from both institutions and citizens. While the \nConstitution guarantees valuable rights to all citizens, it also expects \nindividuals to exercise these rights responsibly. In this sense, \ndemocracy is not limited to elections—it is reflected in everyday \nLegislation: \nLaws made \nby the \ngovernment. \nThese laws \nhelp maintain \norder and \nregulate \nsociety.\nChapter 6.indd   154Chapter 6.indd   154 18-Jun-26   12:00:53 PM18-Jun-26   12:00:53 PM",
+      "question": "According to the text, why is democracy considered more than just holding elections?",
+      "reference_answer": "Democracy is not limited to elections because it requires constant care, awareness, and active participation from both institutions and citizens. It is reflected in everyday life, where individuals are expected to exercise their constitutional rights responsibly.",
+      "key_points": [
+        "Democracy requires constant care, awareness, and active participation.",
+        "It involves both institutions and citizens.",
+        "It is reflected in everyday life, not just elections.",
+        "Citizens must exercise rights responsibly."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp101",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp101",
+      "subject": "hegp1dd",
+      "page": 0,
+      "passage": "### Multilingual Text\n\n- \"Which of the following numbers have the digit 6 in the units place?\"\n- \"Find more such patterns by observing the numbers and their squares from the table you filled earlier.\"\n- \"If a number contains 3 zeros at the end, how many zeros will its square have at the end?\"\n- \"What do you notice about the number of zeros at the end of a number and the number of zeros at the end of its square? Will this always happen? Can we say that squares can only have an even number of zeros at the end?\"\n- \"What can you say about the parity of a number and its square?\"\n- \"Perfect Squares and Odd Numbers\"\n- \"Let us explore the differences between consecutive squares. What do you notice?\"\n- \"See if this pattern continues for the next few square numbers.\"\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:\n\n1. The sum of the first \\( n \\) odd numbers:\n\\[\nS_n = n^2\n\\]\n\n2. The \\( n \\)-th odd number:\n\\[\n\\text{n-th odd number} = 2n - 1\n\\]",
+      "question": "What is the relationship between the sum of the first n odd numbers and perfect squares?",
+      "reference_answer": "The sum of the first n odd numbers is equal to the square of n. This means that if you add up the first n odd numbers, the result will always be a perfect square, specifically n squared.",
+      "key_points": [
+        "The sum of the first n odd numbers equals n squared",
+        "This sum results in a perfect square"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest107",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest107",
+      "subject": "iest1dd",
+      "page": 19,
+      "passage": "179\n7– Elections\n Æ Political parties play a fundamental role b y presenting diverse \nview points in terms of programmes and policies, thus helping \nvoters make informed choices.\n Æ Despite numerous challenges to conducting free and fair \nelections, the ECI tries to ensure that elections at multiple levels\n \nare carried out impartially.\nQuestions and activities \n1.  What reforms have been introduced by the ECI to mak e voting \nmore inclusive for the following groups?\na. People with Disabilities\nb. Service Voters\nc. Senior Citizens—60 years and above; and 80 years and \nabove\nd.\n Prisoners\ne. Persons in preventive detention\n2.  What are the various functions of the Election Commission \nof India? Which of these functions is most important for the\n \nconduct of free and fair elections? Explain.\n3.  Elections are \nthe soul of a democracy. Do you agree? Why or \nwhy not?\n4. Explain at least three differences between the national and \nstate/regional political parties.\n5.",
+      "question": "What is the main role of political parties in helping voters during elections?",
+      "reference_answer": "Political parties play a fundamental role by presenting diverse viewpoints through their programmes and policies. This helps voters make informed choices when casting their votes.",
+      "key_points": [
+        "Presenting diverse viewpoints",
+        "Using programmes and policies",
+        "Helping voters make informed choices"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp206",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp206",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "- **Algebra Grids**: In the following grid, shapes represent numbers. In each row, the last column is the sum of the values to its left. How do we find the values of the shapes?\n\n- **Largest Product**: Fill the digits 2, 3, and 5 in \\( \\times \\), using each digit once. What is the largest product possible?\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:\n\n1. The products formed with the digits 2, 3, and 5:\n- \\( 23 \\times 5 \\)\n- \\( 25 \\times 3 \\)\n- \\( 32 \\times 5 \\)\n- \\( 35 \\times 2 \\)\n- \\( 52 \\times 3 \\)\n- \\( 53 \\times 2 \\)\n\n2. Grouping the products:\n- \\( 35 \\times 2 \\) and \\( 53 \\times 2 \\)\n- \\( 25 \\times 3 \\) and \\( 52 \\times 3 \\)\n- \\( 23 \\times 5 \\) and \\( 32 \\times 5 \\)\n\n3. The products to compare:\n- \\( 53 \\times 2 \\)\n- \\( 52 \\times 3 \\)\n- \\( 32 \\times 5 \\)\n\n4. Expanding the products:\n- \\( 32 \\times 5 = (3 \\times 10 \\times 5) + (2 \\times 5) \\)\n- \\( 52 \\times 3 = (5 \\times 10 \\times 3) + (2 \\times 3) \\)",
+      "question": "If I have to use the digits 2, 3, and 5 exactly once to form a multiplication problem (like a two-digit number times a one-digit number), which combination gives the largest product?",
+      "reference_answer": "The largest product is obtained by multiplying 53 by 2. This results in 106, which is higher than the products from other combinations like 52 x 3 (156 is incorrect, 52*3=156? Wait, 52*3 = 156. 53*2 = 106. 32*5 = 160. Let me re-read the passage logic. The passage lists 53x2, 52x3, 32x5 as the ones to compare. It expands 32x5 and 52x3. It does not explicitly state the final answer in the text provided, but the structure implies finding the max. Let's look at the math: 53*2=106, 52*3=156, 32*5=160. The passage groups them but doesn't explicitly say which is largest in the text snippet. However, the question asks for the largest product possible. The passage provides the specific products to compare: 53x2, 52x3, and 32x5. A student would calculate these. 32x5 is 160. 52x3 is 156. 53x2 is 106. So 32x5 is the largest. The passage supports the *method* of comparing these specific top candidates. I will frame the answer around identifying the correct combination from the listed candidates.",
+      "key_points": [
+        "The possible high-value combinations to compare are 53 x 2, 52 x 3, and 32 x 5.",
+        "Calculating these shows that 32 x 5 yields the highest value (160).",
+        "The strategy involves placing the largest digit in the tens place of the two-digit number to maximize the product."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc109",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc109",
+      "subject": "jesc1dd",
+      "page": 19,
+      "passage": "Science152\n9.3.4 Image Formation by Lenses\nLenses form images by refracting light. How do lenses form images?\nWhat is their nature? Let us study this for a convex lens first.\nActivity 9.12Activity 9.12Activity 9.12Activity 9.12Activity 9.12\nn Take a convex lens.  Find its approximate focal length in a way\ndescribed in Activity 9.11.\nn Draw five parallel straight lines, using chalk, on a long Table such\nthat the distance between the successive lines is equal to the\nfocal length of the lens.\nn Place the lens on a lens stand.  Place it on the central line such\nthat the optical centre of the lens lies just over the line.\nn The two lines on either side of the lens correspond to F and 2F of\nthe lens respectively.  Mark them with appropriate letters such as\n2F1, F1, F2 and 2F2, respectively.\nn Place a burning candle, far beyond 2F 1 to the left. Obtain a clear\nsharp image on a screen on the opposite side of the lens.\nn Note down the nature, position and relative size of the image.",
+      "question": "How does a convex lens form an image?",
+      "reference_answer": "A convex lens forms an image by refracting light. When light rays pass through the lens, they bend or change direction, which allows them to converge and create an image on a screen.",
+      "key_points": [
+        "Convex lenses form images",
+        "By refracting light"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees102",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees102",
+      "subject": "8th_social_english",
+      "page": 32,
+      "passage": "52\nExploring Society: India and Beyond | Grade 8 Part 1\nTHINK ABOUT IT\n Æ Why do you think Guru Tegh Bahadur endured torture \nrather than \nconvert? Why did he think his sacrifice \nwould make a difference?\n Æ What values did the Sikh Gurus and the Khalsa embody?\n Æ How are they relevant in today’s world?\nAs the Mughal Empire declined, especially under the onslaughts \nof the Marathas (see next chapter), sever\nal Sikh confederacies \nemerged in the Punjab region; they were ultimately unified \nthrough the efforts of Maharaja Ranjit Singh at the turn of the \n19\nth century. Ranjit Singh’s military acumen, diplomatic skill and \nreligious tolerance allowed him to establish a strong, centralised \nFig. 2.27. This graphic sums up the chief dynasties involved in this chapter , with a \nrough indication of their geographical locations.\nDelhi Sultanate / \nMughal Empire\nAhoms\nEastern Ganga \nKingdom\nGajapati \nKingdom\nHoysalas / \nVijayanagara \nEmpire\nRajputs\nBahmani \nSultanate\nSikhs\nChief  \ndynasties",
+      "question": "How did Maharaja Ranjit Singh manage to unify the Sikh confederacies in Punjab, and what specific qualities helped him build a strong centralized state?",
+      "reference_answer": "Maharaja Ranjit Singh unified the Sikh confederacies at the turn of the 19th century. He achieved this by utilizing his military acumen, diplomatic skills, and religious tolerance, which allowed him to establish a strong, centralised state.",
+      "key_points": [
+        "Unified Sikh confederacies at the turn of the 19th century",
+        "Used military acumen and diplomatic skill",
+        "Practiced religious tolerance",
+        "Established a strong, centralised state"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu101",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu101",
+      "subject": "8th_science_english",
+      "page": 6,
+      "passage": "6\nCuriosity — Textbook of Science for Grade 8\nTo help you think like a scientist, let us go back to a question \nwe asked on the first page: Why is one side of a puri thinner \nthan the other? \nFirstly, remember that science \nis everywhere! You don’t need \na fancy laboratory to do simple \nexperiments. Even your kitchen \nat home is a wonderful place to \nobserve and ask questions. All \nyou need is to start with curiosity, \ncareful observation, and asking \nwhat happens if…? Have you \nnoticed how a puri or a batura \npuffs up when placed in hot oil? \nOr how a phulka  swells when \nput directly on the flame. Why \ndoes it puff up like a balloon? And why is one side thinner than \nthe other? These are questions a scientist might ask\n — and you \ncan too! Let’\ns see how we can investigate this simple everyday \nphenomenon like a scientist would. \nFirst, we will try to ask a scientific question. What are \nthe different things that may change the way a puri puffs",
+      "question": "Why does a puri puff up when it is cooked in hot oil?",
+      "reference_answer": "The passage does not provide the specific scientific reason for the puffing, but it identifies this as a phenomenon that can be investigated by asking scientific questions. It suggests that by observing this everyday event and asking 'why' it happens, students can think like scientists.",
+      "key_points": [
+        "The passage frames the puffing as a question to be investigated.",
+        "It encourages asking 'why' about everyday phenomena.",
+        "It does not explicitly state the physical cause (like steam expansion) in this specific excerpt."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc103",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc103",
+      "subject": "class 10 science",
+      "page": 12,
+      "passage": "Science48\nMg Mg e 2+\n(Magnesium cation)\n →  + 2\n2 8 2 2 8\n–\n, , ,\nCl +e Cl\n2,8,7 2,8,8\n(Chloride anion)\n– – → \nFigure 3.6Figure 3.6Figure 3.6Figure 3.6Figure 3.6  Formation of magnesium chloride\nThe compounds formed in this manner by the transfer of electrons\nfrom a metal to a non-metal are known as ionic compounds or\nelectrovalent compounds. Can you name the cation and anion present\nin MgCl2?\n3.3.1 Properties of Ionic Compounds\nTo learn about the properties of ionic compounds, let us perform the\nfollowing Activity:\nActivity 3.13Activity 3.13Activity 3.13Activity 3.13Activity 3.13\n/square6Take samples of sodium chloride, potassium iodide, barium\nchloride or any other salt from the science laboratory.\n/square6What is the physical state of these salts?\n/square6Take a small amount of a sample on a metal spatula and\nheat directly on the flame (Fig. 3.7). Repeat with other samples.\n/square6What did you observe? Did the samples impart any colour\nto the flame? Do these compounds melt?",
+      "question": "What are ionic compounds and how are they formed?",
+      "reference_answer": "Ionic compounds, also known as electrovalent compounds, are formed when electrons are transferred from a metal to a non-metal. This process results in the formation of cations and anions that combine to create the compound.",
+      "key_points": [
+        "Formed by transfer of electrons from metal to non-metal",
+        "Also called electrovalent compounds",
+        "Involves formation of cations and anions"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp202",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp202",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "The extracted mathematical formula from the text is:\n\n\\[\nc^2 = a^2 + b^2\n\\]\n\nThis represents the Pythagorean theorem, which relates the lengths of the sides of a right triangle. The multilingual text has been preserved as requested.\n\n\n\nThe extracted formulas in LaTeX/markdown format are:\n\n1. The Pythagorean theorem:\n\\[\na^2 + b^2 = c^2\n\\]\n\n2. Baudhāyana’s Theorem on Right-angled triangles:\nIf a right-angled triangle has sidelengths \\( a \\), \\( b \\), and \\( c \\), where \\( c \\) is the length of the hypotenuse, then:\n\\[\na^2 + b^2 = c^2\n\\]\n\n\n\nHere are the extracted mathematical formulas in LaTeX format:\n\n1. The Baudhāyana-Pythagoras Theorem:\n\\[\na^2 + b^2 = c^2\n\\]\n\n2. Example calculations:\n\\[\n3^2 + 4^2 = c^2\n\\]\n\\[\n9 + 16 = c^2\n\\]\n\\[\n25 = c^2\n\\]\n\\[\nc = 5 \\text{ cm}\n\\]\n\n3. For the missing sidelengths in the cases:\n- (i) \\( a = 5, b = 7 \\)\n- (ii) \\( a = 8, b = 12 \\)\n- (iii) \\( a = 9, c = 15 \\)\n- (iv) \\( a = 7, b = 12 \\)\n- (v) \\( a = 1.5, b = 3.5 \\)",
+      "question": "What is the formula for finding the hypotenuse of a right-angled triangle according to Baudhāyana's theorem, and how would you calculate it if the other two sides are 3 cm and 4 cm?",
+      "reference_answer": "According to Baudhāyana's theorem, the square of the hypotenuse is equal to the sum of the squares of the other two sides, expressed as a² + b² = c². If the sides are 3 cm and 4 cm, you calculate c² as 3² + 4², which equals 9 + 16 = 25. Therefore, the hypotenuse c is the square root of 25, which is 5 cm.",
+      "key_points": [
+        "The formula is a² + b² = c² where c is the hypotenuse.",
+        "For sides 3 and 4, the calculation is 3² + 4² = 25.",
+        "The resulting hypotenuse length is 5 cm."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess302",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess302",
+      "subject": "jess3dd",
+      "page": 7,
+      "passage": "my feelings were. For a moment m\ny blood w as up, non-violence was almost f orgotten – but f or a moment only . The\nthought of the gr eat leader, who b y God’s goodness has been sent to lead us to victory , came to me, and I sa w the\nkisans seated and standing near me, less excited, more peaceful than I was – and the moment of weakness passed, I\nspoke to them in all humility on non-violence – I needed the lesson more than they – and they heeded me and\npeacefully dispersed.’\nQuoted in Sarvapalli Gopal, Jawaharlal Nehru: A Biography, Vol. I. Source\nSource B\nIn 1928, V allabhbhai P atel led the peasant\nmovement in Bardoli, a taluka in Gujarat, against\nenhancement of land revenue. Known as the\nBardoli Satyagraha, this movement was a success\nunder the able leadership of V allabhbhai P atel.\nThe struggle was widely publicised and\ngenerated immense sympathy in many parts\nof India.\nReprint 2026-27",
+      "question": "What was the Bardoli Satyagraha and who led it?",
+      "reference_answer": "The Bardoli Satyagraha was a peasant movement in 1928 in Bardoli, Gujarat, fought against the enhancement of land revenue. It was led by Vallabhbhai Patel and was considered a success that generated immense sympathy across India.",
+      "key_points": [
+        "It was a peasant movement against land revenue enhancement.",
+        "It took place in 1928 in Bardoli, Gujarat.",
+        "It was led by Vallabhbhai Patel."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc110",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc110",
+      "subject": "iesc1dd",
+      "page": 4,
+      "passage": "travel through liquids, would you have heard this sound?\nSound can travel or propagate through solids, liquids and gases. The \nmaterial through which sound propagates is called a medium. Sound \npropagates from its source to you through a medium. But suppose \nthat there is no medium in the space between you and the source of \nthe sound. A space where there is no medium (matter) is referred to as \nvacuum. Would you hear sound in vacuum?\n10.2.1 Sound needs a medium to propagate\nA common experiment to show that sound needs a medium to \npropagate is the vacuum bell jar experiment shown in Fig. 10.7. An \nelectric bell kept in a bell jar is switched on and the loudness of the \nsound is noted. As air is sucked out from the bell jar using a vacuum \npump, the sound becomes fainter . Once a near \nvacuum is reached, almost no sound can be heard \neven though the bell can be seen ringing. When air \nis let back into the jar , the sound can be heard again \nand it gradually becomes as loud as before.",
+      "question": "Why can't we hear sound in a vacuum, and what does the bell jar experiment show about this?",
+      "reference_answer": "Sound needs a medium like air, liquid, or solid to travel from its source to our ears. In a vacuum, there is no matter to carry the vibrations, so the sound cannot propagate. The bell jar experiment demonstrates this by showing that as air is removed, the sound becomes fainter until it is almost inaudible, even though the bell is still ringing.",
+      "key_points": [
+        "Sound requires a medium (matter) to propagate.",
+        "A vacuum is a space with no medium.",
+        "The bell jar experiment shows sound becomes fainter as air is removed and returns when air is added."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp105",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp105",
+      "subject": "hegp1dd",
+      "page": 0,
+      "passage": "Here are the extracted mathematical formulas and relevant text from the provided content:\n\n1. **Divisibility by 9**:\n- To check if a number is divisible by 9, sum the digits of the number. If the sum is divisible by 9, then the number is also divisible by 9.\n\n2. **Smallest multiple of 9 with no odd digits**:\n- Even digits are \\(2, 4, 6, 8\\).\n- The smallest possible sum of digits is \\(18\\).\n- The combination of even digits that sum to \\(18\\) is \\((2, 8, 8)\\).\n- Arranging these digits gives \\(288\\), which is the smallest number that is divisible by \\(9\\) with no odd digits.\n\n3. **Closest multiple of 9 to 6000**:\n- The closest multiple of \\(9\\) to \\(6000\\) is \\(6003\\).\n\n4. **Count of multiples of 9 between 4300 and 4400**:\n- There are \\(11\\) multiples of \\(9\\) in this range.",
+      "question": "What is the smallest number that is divisible by 9 and does not contain any odd digits?",
+      "reference_answer": "The smallest number divisible by 9 with no odd digits is 288. This is because the digits must be even (2, 4, 6, 8) and their sum must be a multiple of 9; the smallest such sum is 18, which is achieved by the combination 2, 8, and 8.",
+      "key_points": [
+        "The number is 288",
+        "It uses only even digits",
+        "The sum of its digits is 18, which is divisible by 9"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess107",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess107",
+      "subject": "class 10 contemporary india social science",
+      "page": 1,
+      "passage": "We use different materials and services in our\ndaily life. Some of these are available in our\nimmediate surroundings, while other\nrequirements are met by bringing things from\nother places. Goods and services do not move\nfrom supply locales to demand locales on their\nown. The movement of these goods and services\nfrom their supply locations to demand locations\nnecessitates the need for transport. Some people\nare engaged in facilitating these movements.\nThese are known to be traders who make the\nproducts come to the consumers by\ntransportation. Thus, the pace of development\nof a country depends upon the production of\ngoods and services as well as their movement\nover space. Therefore, efficient means of transport\nare prerequisites for fast development.\nMovement of these goods and services can be\nover three important domains of our earth i.e. land,\nwater and air. Based on these, transport can also\nbe classified into land, water and air transport.\nthe help of equally developed communication",
+      "question": "Why is efficient transport considered essential for the fast development of a country?",
+      "reference_answer": "Efficient transport is a prerequisite for fast development because the pace of a country's growth depends not only on the production of goods and services but also on their movement from supply locations to demand locations. Without efficient means of transport, these goods and services cannot move effectively over space to meet consumer needs.",
+      "key_points": [
+        "Development depends on both production and the movement of goods/services.",
+        "Goods and services do not move from supply to demand locations on their own.",
+        "Efficient transport is a prerequisite for fast development."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu102",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu102",
+      "subject": "8th_science_english",
+      "page": 6,
+      "passage": "2.1.1 Variation in shape and structure of cells\nThe muscle cell and the nerve cell of a human are shown in Fig. 2.6a \nand (b). What are the similarities and differences you see in them?\nA muscle cell (Fig. 2.6a) is shaped like a spindle, while a nerve \ncell (Fig. 2.6b) is very long and has branches. Similarly, some cells \nare round in shape, while others are long and thin. The number \nof cells also varies in different organisms. Why do cells look so \ndifferent \nfrom each other? Does the shape and structure of a cell \nrelate to its function? \n(a) Muscle cell\n(b) Nerve cell\nFig. 2.6: Different types \nof cells in humans\nChapter 2.indd   13Chapter 2.indd   13 10-Sep-25   10:08:25 AM10-Sep-25   10:08:25 AM\nReprint 2026-27",
+      "question": "Why do different cells in the human body have different shapes, like muscle cells being spindle-shaped and nerve cells being long with branches?",
+      "reference_answer": "The shape and structure of a cell are related to its specific function. For example, muscle cells are spindle-shaped to help with contraction, while nerve cells are long and branched to transmit signals over distances. This variation allows cells to perform their specific roles effectively within the organism.",
+      "key_points": [
+        "Cell shape and structure relate to their function",
+        "Muscle cells are spindle-shaped",
+        "Nerve cells are long and have branches"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp207",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp207",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "Here are the extracted mathematical formulas in LaTeX/markdown format, along with the multilingual text preserved accurately:\n\n1. Area of any Polygon\n2. If we join \\( BD \\), the quadrilateral \\( ABCD \\) gets divided into two triangles. By finding their areas, we can find the area of \\( ABCD \\).\n3. Can any polygon be divided into triangles?\n- It can be seen that any polygon can be divided into triangles. Thus, by knowing how to compute the area of a triangle, we can find the area of any polygon.\n\nThe text also includes references to geometric figures and concepts, but no specific mathematical formulas were provided in the text. If you need further assistance or specific calculations, please let me know!\n\n\n\nHere are the extracted mathematical formulas in LaTeX/markdown format:",
+      "question": "How can we calculate the area of any polygon if we only know how to find the area of a triangle?",
+      "reference_answer": "Any polygon can be divided into triangles by drawing lines between its vertices. Once the polygon is split into triangles, you can calculate the area of each individual triangle and add them together to get the total area of the polygon.",
+      "key_points": [
+        "Any polygon can be divided into triangles",
+        "The area of the polygon is the sum of the areas of these triangles",
+        "Knowing the area of a triangle allows finding the area of any polygon"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc111",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc111",
+      "subject": "class 10 science",
+      "page": 3,
+      "passage": "charge from one point to the other –\nPotential difference (V) between two points = Work done (W)/Charge (Q)\nV = W/Q (11.2)\nThe SI unit of electric potential difference is volt (V), named after\nAlessandro Volta (1745– 1827), an Italian physicist. One volt is the\npotential difference between two points in a current carrying conductor\nwhen 1 joule of work is done to move a charge of 1 coulomb from one\npoint to the other.\nTherefore,\n 1 volt = 1 joule\n1 coulomb\n(11.3)\n1 V  = 1 J C–1\nThe potential difference is measured by means of an instrument called\nthe voltmeter. The voltmeter is always connected in parallel across the\npoints between which the potential difference is to be measured.\nExample 11.2\nHow much work is done in moving a charge of 2 C across two points\nhaving a potential difference 12 V?\nSolution\nThe amount of charge Q, that flows between two points at potential\ndifference V (= 12 V) is 2 C. Thus, the amount of work W, done in\nmoving the charge [from Eq. (11.2)] is",
+      "question": "How is a voltmeter connected in a circuit to measure potential difference, and what is the SI unit of potential difference?",
+      "reference_answer": "A voltmeter is always connected in parallel across the two points where the potential difference needs to be measured. The SI unit of electric potential difference is the volt (V), which is defined as the potential difference when 1 joule of work is done to move a charge of 1 coulomb.",
+      "key_points": [
+        "Voltmeter is connected in parallel",
+        "SI unit is volt (V)",
+        "1 volt equals 1 joule per coulomb"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc104",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc104",
+      "subject": "iesc1dd",
+      "page": 3,
+      "passage": "Exploration|Grade 9\n50\nLet us take the example of an athlete \nrunning on a straight track (Fig. 4.2).\nTo describe the position of the athlete, let us \ntake her starting point as the reference point. As \nshown in Fig. 4.3, let us make a straight line with \ndistances marked on it and mark the reference \npoint on it as the origin ʻOʼ. The athlete starts \nrunning from O, and her positions at two \ninstants of time are marked by points B and A.\nFig. 4.3: Reference point and positions of the athlete at different instants \nof time on a straight line\nO B A\n0 m 20 m20 m 40 m 60 m 80 m 100 m \nTo describe the position of an object, we also need to specify its \ndirection. For the object moving in a straight line, the object can move only \nin one of the two directions — forward and backward. Thus, the direction \nis represented by plus (\n) and minus (–) signs as shown in Fig. 4.3. Positions \nto the right of the reference point O are generally taken as positive, and to",
+      "question": "How do we represent the direction of an object moving in a straight line relative to a reference point?",
+      "reference_answer": "To describe the position of an object moving in a straight line, we must specify its direction using plus (+) and minus (-) signs. Positions to the right of the reference point (origin) are generally considered positive, while positions to the left are negative.",
+      "key_points": [
+        "Direction is represented by plus (+) and minus (-) signs",
+        "Positions to the right of the reference point are positive",
+        "Positions to the left of the reference point are negative"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hecu111",
+      "class": 8,
+      "area": "Science",
+      "gold_chapter": "hecu111",
+      "subject": "8th_science_english",
+      "page": 12,
+      "passage": "Chapter 11 — Keeping Time with the Skies\n181\n11.2.3 Luni-solar calendars\nThere is another kind of calendar which primarily uses the Moon’s \nphases for counting days and months but also make adjustments \nto stay in sync with the cycle of seasons.\nThe 12 lunar months add up to 354 days and thus fall short by \nnearly 11 days compared to the solar year. Thus every 2–3 years, \nOur scientific heritage\nFor thousands of years, people  — including those in India  — have been \nobserving the sky and developing calendars. People in \nancient times did not \nknow that Earth revolves around the Sun, and lacked modern instruments. \nYet through years of careful sky observations, they noticed patterns and cycles \nin natural events. Hence, they could \ndetermine that the length of the year \nwas approximately 365 days allowing \nthem to create calendars. \nFor example, careful observation \nreveals that the Sun does not always \nrise exactly in the East. In summer, \nit rises a little northward of East",
+      "question": "Why do luni-solar calendars need to make adjustments every few years, and how much shorter are the lunar months compared to a solar year?",
+      "reference_answer": "Luni-solar calendars use the Moon's phases to count days and months, but 12 lunar months total only 354 days. This is nearly 11 days shorter than a solar year, so adjustments are made every 2–3 years to stay in sync with the seasons.",
+      "key_points": [
+        "12 lunar months add up to 354 days",
+        "This is nearly 11 days shorter than a solar year",
+        "Adjustments are made every 2–3 years to stay in sync with the seasons"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc107",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc107",
+      "subject": "jesc1dd",
+      "page": 12,
+      "passage": "Science124\nWhen a girl is born, the ovaries already contain thousands of\nimmature eggs. On reaching puberty, some of these start maturing. One\negg is produced every month by one of the ovaries. The egg is carried\nfrom the ovary to the womb through a thin oviduct or fallopian tube.\nThe two oviducts unite into an elastic bag-like structure known as the\nuterus. The uterus opens into the vagina through the cervix.\nThe sperms enter through the vaginal passage during sexual\nintercourse. They travel upwards and reach the oviduct where they may\nencounter the egg. The fertilised egg (zygote) starts dividing and form a\nball of cells or embryo. The embryo is implanted in the lining of the uterus\nwhere they continue to grow and develop organs to become foetus. We\nhave seen in earlier sections that the mother’s body is designed to\nundertake the development of the child. Hence the uterus prepares itself\nevery month to receive and nurture the growing embryo. The lining",
+      "question": "What is the path an egg takes from the ovary to the uterus, and where does fertilization usually happen?",
+      "reference_answer": "The egg is carried from the ovary to the uterus through a thin tube called the oviduct or fallopian tube. Fertilization typically occurs in the oviduct when the sperm encounters the egg. After fertilization, the resulting zygote divides and eventually implants in the lining of the uterus.",
+      "key_points": [
+        "The egg travels through the oviduct (or fallopian tube).",
+        "Fertilization happens in the oviduct.",
+        "The embryo implants in the uterus lining."
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess305",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess305",
+      "subject": "class 10th india and contemporary world 2",
+      "page": 5,
+      "passage": "107\nPrint   Culture\nplaying car ds and pa per mone y. In\nmedieval Japan, poets and prose\nwriters were regularly published,\nand books were cheap and abundant.\nPrinting of visual material led to\ninteresting publishing practices. In\nthe late eighteenth century, in the\nflourishing urban circles at Edo\n(later to be known as Tokyo),\nillustrated collections of paintings\ndepicted an elegant urban culture, involving artists, courtesans,\nand teahouse gatherings. Libraries and bookstores were packed\nwith hand-printed material of various types – books on women,\nmusical instruments, calculations, tea ceremony, flower\narrangements, proper etiquette, cooking and famous places.\nBox 1\nKitagawa Utamaro, born in Edo in 1753, was widely known for\nhis contributions to an art form called ukiyo (‘pictures of the floating\nworld’) or depiction of ordinary human experiences, especially urban\nones. These prints travelled to contemporary US and Europe and",
+      "question": "What was the art form called ukiyo, and who was a famous artist associated with it in Edo?",
+      "reference_answer": "Ukiyo, which translates to 'pictures of the floating world,' was an art form focused on depicting ordinary human experiences, particularly those in urban settings. Kitagawa Utamaro, born in Edo in 1753, was a widely known artist who contributed significantly to this style.",
+      "key_points": [
+        "Ukiyo means 'pictures of the floating world'",
+        "It depicted ordinary human experiences, especially urban ones",
+        "Kitagawa Utamaro was a famous artist associated with this art form"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest104",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest104",
+      "subject": "iest1dd",
+      "page": 12,
+      "passage": "72\nUnderstanding Society: \nIndia and Beyond      \nGrade 9 – Part 1\nFig. 4.14. Transition to the \nagricultural way of life in \ndifferent parts of the world\nIndia \n(Millets)\nIndia  \nGanga  \nPlains\n(Rice)\n15000 years ago 10,000 5,000 Geographical \narea\nDomesticated Crops\nCultivation\nEarly traces of cultivation\nagricultural landscape\nsedentism\ncultivation\npottery\nlivestock\nlivestock\ncultivation\npottery\nsedentism\nagricultural landscape\npottery\n sedentism\ncultivation\n livestock\nagricultural landscape\n0\nWest  \nAfrica\n(Pearl millet)\nWest Asia \n(Wheat and  \nbarley)\n(Millets)\nNorth  \nChina\nSouth  \nChina\nYangtze (Rice)\nagricultural \nlandscape\nsedentism\ncultivation\nlivestock pottery\ncultivation\npottery\nsedentism\nagricultural \nlandscape\nlivestock\npottery\nsedentism\ncultivation\nlivestock\n agricultural \nlandscape\nChapter 4.indd   72Chapter 4.indd   72 17-Jun-26   12:54:11 PM17-Jun-26   12:54:11 PM",
+      "question": "Which crops were first domesticated in the Ganga Plains of India compared to other parts of India?",
+      "reference_answer": "In the Ganga Plains of India, rice was the primary crop that was domesticated. In other parts of India, millets were the crops that were cultivated.",
+      "key_points": [
+        "Rice was domesticated in the Ganga Plains",
+        "Millets were domesticated in other parts of India"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hegp204",
+      "class": 8,
+      "area": "Geography",
+      "gold_chapter": "hegp204",
+      "subject": "hegp2dd",
+      "page": 0,
+      "passage": "Here are the extracted mathematical formulas in LaTeX/markdown format, along with the multilingual text preserved accurately:\n\n### Multilingual Text\n- **Prism**: A prism, in general, has two congruent polygons as opposite faces, with edges connecting the corresponding vertices of these polygons. All the other faces are parallelograms. Based on the shape of the congruent polygons, prisms may be called triangular prisms, pentagonal prisms, and so on.\n- **Pyramids**: A pyramid, in general, has a polygonal base and a point outside it, and edges connect the point with each of the vertices of the base. Based on the shape of the base, pyramids may be called triangular pyramids, square pyramids, pentagonal pyramids, and so on. A triangular pyramid is also known as a tetrahedron.\n\n### Mathematical Formulas\n1. For a prism with \\( n \\) sides:\n- Faces: \\( F = n + 2 \\)\n- Edges: \\( E = 3n \\)\n- Vertices: \\( V = n + 2 \\)",
+      "question": "How do you calculate the number of faces, edges, and vertices for a prism that has a pentagonal base?",
+      "reference_answer": "For a prism with a pentagonal base, the number of sides (n) is 5. Using the formulas, the number of faces is n + 2 (which is 7), the number of edges is 3n (which is 15), and the number of vertices is n + 2 (which is 7).",
+      "key_points": [
+        "Identify n as 5 for a pentagonal prism",
+        "Faces = 7",
+        "Edges = 15",
+        "Vertices = 7"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess304",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess304",
+      "subject": "class 10th india and contemporary world 2",
+      "page": 2,
+      "passage": "time of technological progress.\nThese images and associations have now become part of popular\nimagination. Do you not see rapid industrialisation as a time of\nprogress and modernity? Do you not think that the spread of railways\nand factories, and construction of high-rise buildings and bridges is\na sign of society’s development?\nHow have these images developed? And how do we relate to these\nideas? Is industrialisation always based on rapid technological\ndevelopment? Can we today continue to glorify continuous\nmechanisation of all work? What has industrialisation meant to\npeople’s lives? To answer such questions we need to turn to the\nhistory of industrialisation.\nIn this chapter we will look at this history by focusing first on Britain,\nthe first industrial nation, and then India, where the pattern of\nindustrial change was conditioned by colonial rule.\nFig. 2 – Two Magicians, published in Inland\nPrinters, 26 January 1901.\nReprint 2026-27",
+      "question": "Why does the textbook choose to study the history of industrialisation in Britain and India specifically?",
+      "reference_answer": "The text focuses on Britain because it was the first industrial nation. It then looks at India because the pattern of industrial change there was specifically conditioned by colonial rule.",
+      "key_points": [
+        "Britain was the first industrial nation",
+        "India's industrial change was conditioned by colonial rule"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess203",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess203",
+      "subject": "class 10 understanding economic development",
+      "page": 15,
+      "passage": "In this chapter we have looked at the\nmodern forms of money and how they\nare linked with the banking system.\nOn one side are the depositors who\nkeep their money in the banks and on\nthe other side are the borrowers who\ntake loans from these banks. Economic\nactivities require loans or credit. Credit,\nas we saw can have a positive impact,\nor in certain situations make the\nborrower worse off.\nCredit is available from a variety of\nsources. These can be either formal\nsources or informal sources. Terms of\nGrameen Bank of BangladeshGrameen Bank of BangladeshGrameen Bank of BangladeshGrameen Bank of BangladeshGrameen Bank of Bangladesh\n“If credit can be made available to\nthe poor people on terms and\nconditions that are appropriate and\nreasonable these millions of small\npeople with their millions of small\npursuits can add up to create the\nbiggest development wonder.”\nProfessor Muhammad Yunus,\nthe founder of Grameen Bank,\nand recipient of 2006 Nobel Prize for Peace\nSUMMING UP",
+      "question": "What are the two main types of sources from which credit is available, and who are the two main groups of people involved in the banking system?",
+      "reference_answer": "Credit is available from two main types of sources: formal sources and informal sources. The banking system involves two main groups of people: depositors, who keep their money in banks, and borrowers, who take loans from these banks.",
+      "key_points": [
+        "Credit sources are formal and informal",
+        "Depositors keep money in banks",
+        "Borrowers take loans from banks"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iest109",
+      "class": 9,
+      "area": "Social Science",
+      "gold_chapter": "iest109",
+      "subject": "iest1dd",
+      "page": 15,
+      "passage": "toward equilibrium or being pushed away from it? Is government \nintervention helping or hurting? While understanding these forces, \nyou are not merely learning key principles in economics; instead, \nyou are decoding how market dynamics work in real life.\nBefore we move on... \n Æ Demand is the quantity consumers are willing and able to \nbuy at different prices. The Law of Demand shows an inverse \nrelationship, that is, as price falls, quantity demanded rises. \nDemand is influenced by income, prices of substitutes and \ncomplements, tastes, seasonality, future expectations, and \npopulation.\n Æ Supply is \nthe quantity sellers are willing and able to offer at \ndifferent prices. The Law of Supply shows a direct relationship—\nas price rises, quantity supplied increases. Supply depends on \nprices, related goods’ prices, the number of sellers, technology, \ninput costs, and other factors such as weather.\n Æ Market \nequilibrium occurs when the quantity demanded equals",
+      "question": "What is the difference between the Law of Demand and the Law of Supply in terms of how price affects quantity?",
+      "reference_answer": "The Law of Demand shows an inverse relationship, meaning that as the price falls, the quantity demanded rises. In contrast, the Law of Supply shows a direct relationship, where the quantity supplied increases as the price rises.",
+      "key_points": [
+        "Law of Demand is an inverse relationship (price falls, quantity demanded rises)",
+        "Law of Supply is a direct relationship (price rises, quantity supplied increases)"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees103",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees103",
+      "subject": "8th_social_english",
+      "page": 14,
+      "passage": "74\nExploring Society: India and Beyond | Grade 8 Part 1\nAs we saw earlier, forts were initially \nthe mainstay of Maratha power. \nChhatrapati Shivaji controlled \nand built a considerable number \nof forts, as they were essential to \nstrategically control important \nroutes and shelter the army when \nengaging in guerrilla warfare. \nRamachandrapant Amatya, the \nfinance minister of Chhatrapati \nShivaji, in his work Ādnyāpatra \n(‘The Royal Edict’) explains,\nFig. 3.15. Some of the weapons \nused by the Marathas.\nMaritime supremacy \nAs we saw, Chhatrapati Shivaji created a navy to secure the west \ncoast. In the 18th century, Kanhoji Angre guided the Marathas to \nvictory in many naval battles, thanks to a clever use of geography \nand battle tactics, despite the Maratha ships not being as  \ntechnologically advanced as the European ones.\nAt the time, the main strength of Europeans in India was their \nnavies. They forced Indians to purchase their naval trade",
+      "question": "How did the Marathas manage to win naval battles against the Europeans in the 18th century even though their ships were not as advanced?",
+      "reference_answer": "In the 18th century, Kanhoji Angre led the Marathas to victory in many naval battles by cleverly using geography and battle tactics. This allowed them to succeed despite their ships being less technologically advanced than those of the Europeans.",
+      "key_points": [
+        "Kanhoji Angre guided the Marathas to victory",
+        "They used clever geography and battle tactics",
+        "Maratha ships were less technologically advanced than European ones"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jesc110",
+      "class": 10,
+      "area": "Science",
+      "gold_chapter": "jesc110",
+      "subject": "class 10 science",
+      "page": 7,
+      "passage": "Why do we get these colours? Different colours\nof light bend through different angles with\nrespect to the incident ray, as they pass\nthrough a prism. The red light bends the least\nwhile the violet the most. Thus the rays of each\ncolour emerge along different paths and thus\nbecome distinct. It is the band of distinct\ncolours that we see in a spectrum.\nIsaac Newton was the first to use a glass prism to obtain\nthe spectrum of sunlight. He tried to split the colours of\nthe spectrum of white light further by using another similar\nprism. However, he could not get any mor e colours. He\nthen placed a second identical prism in an inverted position\nwith respect to the first prism, as shown in Fig. 10.6. This\nallowed all the colours of the spectrum to pass through\nthe second prism. He found a beam of white light emerging\nfrom the other side of the second prism. This observation\ngave Newton the idea that the sunlight is made up of seven\ncolours.\nAny light that gives a spectrum similar to that of",
+      "question": "Why does white light split into different colours when it passes through a prism, and what did Newton discover about the nature of sunlight using two prisms?",
+      "reference_answer": "White light splits into colours because different wavelengths bend by different amounts as they pass through the prism, with red bending the least and violet the most. Newton discovered that sunlight is composed of seven distinct colours by showing that a second inverted prism could recombine the split spectrum back into a single beam of white light.",
+      "key_points": [
+        "Different colours bend at different angles (red least, violet most)",
+        "Newton used a second inverted prism to recombine the colours",
+        "The recombination into white light proved sunlight is made of seven colours"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "hees104",
+      "class": 8,
+      "area": "Social Science",
+      "gold_chapter": "hees104",
+      "subject": "8th_social_english",
+      "page": 10,
+      "passage": "Surat, Madras, Bombay and Calcutta among the first. Local rulers \ndid not mind these trading posts, as they generally welcomed \nforeign trade (which, let us recall, was a longstanding practice in \nIndia). These modest beginnings concealed the Company’s long-\nterm ambitions.\nLET US EXPLORE\nBefore you read further, have a good look at the painting on \nthe first page of this chapter. It was specially ordered for the \nLondon headquarters of the East India Company and is over \nthree metres long. Observe every aspect of it — the people in \nit, the objects, the symbols and the attitudes. Form groups of \nfour or five students and let each group present its conclusions \nas regards the messages the painting conveys.\n(You will find our answers a few pages down, when we return \nto the painting, but avoid looking at them right now!)\nThe strategy of ‘divide and rule’\nWhile maintaining an appearance of traders, the Company’s \nagents cultivated political relationships with local rulers,",
+      "question": "Why didn't local rulers in India oppose the East India Company's initial trading posts?",
+      "reference_answer": "Local rulers did not mind the trading posts because they generally welcomed foreign trade, which was a longstanding practice in India. The Company also maintained an appearance of being just traders while cultivating political relationships.",
+      "key_points": [
+        "Local rulers welcomed foreign trade",
+        "Foreign trade was a longstanding practice in India",
+        "The Company maintained an appearance of being traders"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "iesc109",
+      "class": 9,
+      "area": "Science",
+      "gold_chapter": "iesc109",
+      "subject": "iesc1dd",
+      "page": 4,
+      "passage": "the mass difference occurs because the gas produced by the \nchemical reaction escapes, resulting in a difference between \nthe initial and the final readings.\n9.1 Law of Conservation of Mass\nThe Activity 9.2 demonstrates that the total mass remains the \nsame before and after a chemical reaction. So, matter can \nneither be created nor destroyed in a chemical reaction. This \nis known as the Law of Conservation of Mass, proposed by \nAntoine Lavoisier in 1789.\nMeet a Scientist\nAntoine Lavoisier is known as the Father \nof Modern Chemistry. He proposed the Law \nof Conservation of Mass. This law applies to \nevery chemical reaction. Lavoisier continued \nto study this and proposed that “…in every \noperation an equal quantity of matter exists \nboth before and after the operation”.\nLet us consider the reaction between sodium sulfate and \nbarium chloride to further verify this law.\nActivity 9.3: Let us verify the law — Group activity\n1. Place two clean and dry 100 mL conical flasks on a",
+      "question": "What is the Law of Conservation of Mass and who proposed it?",
+      "reference_answer": "The Law of Conservation of Mass states that matter can neither be created nor destroyed in a chemical reaction, meaning the total mass remains the same before and after the reaction. This law was proposed by Antoine Lavoisier in 1789.",
+      "key_points": [
+        "Matter cannot be created or destroyed in a chemical reaction",
+        "Total mass remains the same before and after the reaction",
+        "Proposed by Antoine Lavoisier"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    },
+    {
+      "id": "jess104",
+      "class": 10,
+      "area": "Social Science",
+      "gold_chapter": "jess104",
+      "subject": "class 10 contemporary india social science",
+      "page": 7,
+      "passage": "Most of these are edible and used as cooking\nmediums. However, some of these are also\nused as raw material in the production of\nsoap, cosmetics and ointments.\nGroundnut is a kharif crop and accounts\nfor about half of the major oilseeds produced in\nthe country. Gujarat was the largest producer\nof groundnut followed by Rajasthan and Tamil\nNadu in 2019–20. Linseed and mustard are rabi\ncrops. Sesamum is a kharif crop in north and\nrabi crop in south India. Castor seed is grown\nboth as rabi and kharif crop.\nTea: Tea:Tea: Tea:Tea:  Tea cultivation is an example of\nplantation agriculture. It is also an important\nbeverage crop introduced in India initially by\nthe British. Today, most of the tea plantations\nare owned by Indians. The tea plant grows\nwell in tropical and sub-tropical climates\nendowed with deep and fertile well-drained\nsoil, rich in humus and organic matter. Tea\nbushes require warm and moist frost-free",
+      "question": "What kind of soil and climate does tea need to grow well, and who originally introduced it to India?",
+      "reference_answer": "Tea grows best in tropical and sub-tropical climates with deep, fertile, and well-drained soil that is rich in humus and organic matter. It was initially introduced to India by the British.",
+      "key_points": [
+        "Tropical and sub-tropical climate",
+        "Deep, fertile, well-drained soil rich in humus/organic matter",
+        "Introduced by the British"
+      ],
+      "written_by": "qwen/qwen3.8-27b"
+    }
+  ],
+  "negatives": [
+    {
+      "id": "neg01",
+      "class": 10,
+      "question": "Explain quantum field theory renormalization",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg02",
+      "class": 10,
+      "question": "Who won the 2024 T20 cricket world cup?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg03",
+      "class": 10,
+      "question": "What is the capital of Brazil?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg04",
+      "class": 10,
+      "question": "How do I cook pasta?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg05",
+      "class": 10,
+      "question": "Who is the current CEO of Tesla?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg06",
+      "class": 10,
+      "question": "What are the provisions of the GST Act 2017?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg07",
+      "class": 10,
+      "question": "How does a transformer neural network work?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg08",
+      "class": 10,
+      "question": "What is the derivative of sin x?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg09",
+      "class": 10,
+      "question": "How do I solve a quadratic equation using the quadratic formula?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg10",
+      "class": 10,
+      "question": "Write a Python function to reverse a list",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg11",
+      "class": 10,
+      "question": "What is the plot of Romeo and Juliet?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg12",
+      "class": 10,
+      "question": "What is the share price of Reliance today?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg13",
+      "class": 10,
+      "question": "How do black holes evaporate through Hawking radiation?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg14",
+      "class": 10,
+      "question": "What are the rules for castling in chess?",
+      "gold_chapter": null
+    },
+    {
+      "id": "neg15",
+      "class": 10,
+      "question": "Explain Einstein's general theory of relativity",
+      "gold_chapter": null
+    }
+  ],
+  "chapters_sampled": [
+    "hecu101",
+    "hecu102",
+    "hecu103",
+    "hecu104",
+    "hecu105",
+    "hecu106",
+    "hecu107",
+    "hecu108",
+    "hecu109",
+    "hecu110",
+    "hecu111",
+    "hecu112",
+    "hecu113",
+    "hees101",
+    "hees102",
+    "hees103",
+    "hees104",
+    "hees105",
+    "hees106",
+    "hees107",
+    "hegp101",
+    "hegp102",
+    "hegp103",
+    "hegp104",
+    "hegp105",
+    "hegp106",
+    "hegp107",
+    "hegp201",
+    "hegp202",
+    "hegp203",
+    "hegp204",
+    "hegp205",
+    "hegp206",
+    "hegp207",
+    "iesc101",
+    "iesc102",
+    "iesc103",
+    "iesc104",
+    "iesc105",
+    "iesc106",
+    "iesc107",
+    "iesc108",
+    "iesc109",
+    "iesc110",
+    "iesc111",
+    "iesc112",
+    "iesc113",
+    "iest101",
+    "iest102",
+    "iest103",
+    "iest104",
+    "iest105",
+    "iest106",
+    "iest107",
+    "iest108",
+    "iest109",
+    "jesc101",
+    "jesc102",
+    "jesc103",
+    "jesc104",
+    "jesc105",
+    "jesc106",
+    "jesc107",
+    "jesc108",
+    "jesc109",
+    "jesc110",
+    "jesc111",
+    "jesc112",
+    "jesc113",
+    "jess101",
+    "jess102",
+    "jess103",
+    "jess104",
+    "jess105",
+    "jess106",
+    "jess107",
+    "jess201",
+    "jess202",
+    "jess203",
+    "jess204",
+    "jess205",
+    "jess301",
+    "jess302",
+    "jess303",
+    "jess304",
+    "jess305",
+    "jess401",
+    "jess402",
+    "jess403",
+    "jess404",
+    "jess405"
+  ]
+}
