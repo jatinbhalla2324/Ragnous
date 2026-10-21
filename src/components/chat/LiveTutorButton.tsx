@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { useChatStore } from '../../store/chatStore';
-import { mockChatResponse } from '../../api/chat';
+import { sendChatMessage } from '../../api/chat';
 import { WS_BASE_URL } from '../../api/client';
 
 /* The agent talks out of the same speakers the mic is listening to, so every
@@ -494,7 +494,7 @@ DELIVERY:
                   .slice(-6)
                   .map(m => ({ role: m.role, content: m.content }));
 
-                mockChatResponse(query, lang, sClass, model, history)
+                sendChatMessage(query, lang, sClass, model, history)
                     .then((chatMsg) => {
                         hasAddedRagMessage.current = true;
 

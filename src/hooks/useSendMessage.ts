@@ -2,7 +2,7 @@ import { useCallback } from 'react';
 import { useChatStore } from '../store/chatStore';
 import { useProfileStore } from '../store/profileStore';
 import { isQuizRequest, useQuizStore } from '../store/quizStore';
-import { mockChatResponse } from '../api/chat';
+import { sendChatMessage } from '../api/chat';
 import { Attachment } from '../types/rag';
 
 /**
@@ -191,7 +191,7 @@ export const useSendMessage = () => {
 
     state.setStreaming(true);
     try {
-      const response = await mockChatResponse(
+      const response = await sendChatMessage(
         question,
         session?.language ?? 'English',
         session?.studentClass ?? '8th',

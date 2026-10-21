@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { ArrowDown, Bookmark, Check, Copy, Loader2, Volume2, VolumeX } from 'lucide-react';
+import { ArrowDown, Check, Copy, Loader2, Volume2, VolumeX } from 'lucide-react';
 import { useChatStore } from '../../store/chatStore';
 import { useNotesStore } from '../../store/notesStore';
 import { ConfidenceMode } from '../../types/rag';
@@ -63,7 +63,6 @@ export const ChatThread = () => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   const [copiedId, setCopiedId] = useState<string | null>(null);
-  const [savedId, setSavedId] = useState<string | null>(null);
   const [speakingId, setSpeakingId] = useState<string | null>(null);
   const [loadingTtsId, setLoadingTtsId] = useState<string | null>(null);
   const [atBottom, setAtBottom] = useState(true);
@@ -166,11 +165,6 @@ export const ChatThread = () => {
     await useNotesStore.getState().exportNotes();
   };
 
-  const handleSave = (id: string) => {
-    setSavedId(id);
-    setTimeout(() => setSavedId(null), 1800);
-  };
-
   const pendingTurn = isStreaming && messages[messages.length - 1]?.role === 'user';
 
   return (
@@ -232,18 +226,6 @@ export const ChatThread = () => {
                         ) : (
                           <Copy className="w-4 h-4" strokeWidth={1.7} />
                         )}
-                      </button>
-
-                      <button
-                        onClick={() => handleSave(msg.id)}
-                        className="icon-btn"
-                        title="Save to revision"
-                        aria-label="Save to revision"
-                      >
-                        <Bookmark
-                          className={`w-4 h-4 ${savedId === msg.id ? 'text-ink fill-ink' : ''}`}
-                          strokeWidth={1.7}
-                        />
                       </button>
 
                       <button
