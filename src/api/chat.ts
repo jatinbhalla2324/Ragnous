@@ -1,7 +1,15 @@
 import { Attachment, ChatMessage } from '../types/rag';
 import { API_BASE } from './config';
 
-export const mockChatResponse = async (
+/**
+ * Send one chat turn to the backend and return the assistant reply.
+ *
+ * This is a single request/response round-trip, not a token stream: the promise
+ * resolves once with the whole answer. The store's `isStreaming` flag therefore
+ * means "a reply is in flight" (the thinking indicator is showing), not that
+ * text is arriving incrementally.
+ */
+export const sendChatMessage = async (
   query: string,
   language: string = 'English',
   studentClass: string = '8th',
