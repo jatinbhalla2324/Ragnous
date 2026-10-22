@@ -75,7 +75,7 @@ class AttachmentError(ValueError):
 
 def _extension(filename: str) -> str:
     dot = filename.rfind(".")
-    return filename[dot:].lower() if dot != -1 else ""
+    return filename[dot + 1:].lower() if dot != -1 else ""
 
 
 def _clip(text: str) -> tuple[str, bool]:

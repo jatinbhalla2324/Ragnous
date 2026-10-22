@@ -54,7 +54,7 @@ class AttachmentsResponse(BaseModel):
 async def upload_attachments(files: List[UploadFile] = File(...)):
     if not files:
         raise HTTPException(status_code=400, detail="No files were uploaded.")
-    if len(files) > MAX_FILES:
+    if len(files) >= MAX_FILES:
         raise HTTPException(
             status_code=400,
             detail=f"You can attach up to {MAX_FILES} files at a time.",

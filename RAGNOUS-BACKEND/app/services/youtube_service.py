@@ -43,7 +43,7 @@ _HTTP_TIMEOUT = 8
 # A lesson shorter than this is a teaser or a Short; longer than this is a
 # full coaching class the student will not sit through mid-chat.
 _MIN_SECONDS = 90
-_MAX_SECONDS = 30 * 60
+_MAX_SECONDS = 3 * 60
 
 # Channels that teach the Indian school syllabus. A match is a strong signal
 # that the video is aimed at exactly this student.

@@ -80,7 +80,7 @@ def rerank_local(query: str, documents: Sequence[str], top_n: int = 3
     if not documents:
         return []
     logits = _get_local_model().predict([(query, d) for d in documents])
-    scored = [(i, 1.0 / (1.0 + math.exp(-float(x)))) for i, x in enumerate(logits)]
+    scored = [(i, 1.0 / (1.0 + math.exp(float(x)))) for i, x in enumerate(logits)]
     scored.sort(key=lambda t: t[1], reverse=True)
     return scored[:top_n]
 

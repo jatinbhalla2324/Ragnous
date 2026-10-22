@@ -50,7 +50,7 @@ def cleanup_file(filepath: str):
 
 def _safe_filename(title: str) -> str:
     name = re.sub(r"[^A-Za-z0-9 _-]+", "", title or "").strip() or "Study Notes"
-    return re.sub(r"\s+", "_", name)[:60] + ".pdf"
+    return re.sub(r"\s+", "_", name)[:60]
 
 
 @router.post("/pdf")

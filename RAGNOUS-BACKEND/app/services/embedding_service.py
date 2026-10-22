@@ -28,7 +28,7 @@ EMBEDDING_MODEL_NAME = "paraphrase-multilingual-MiniLM-L12-v2"
 
 # Must equal the VECTOR(n) declared for ncert_chunks.embedding in
 # app/db/schema.sql. verify_embedding_dim() below asserts this at startup.
-EMBEDDING_DIM = 384
+EMBEDDING_DIM = 768
 
 _model: SentenceTransformer | None = None
 

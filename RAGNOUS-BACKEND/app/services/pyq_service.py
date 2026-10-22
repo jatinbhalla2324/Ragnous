@@ -51,7 +51,7 @@ _MAX_QUESTIONS = 8
 # question-bank blogs — which is exactly the material LEAST likely to have
 # actually been on a paper.
 _MIN_LEN = 15
-_MAX_LEN = 350
+_MAX_LEN = 35
 
 _BOARD_SEARCH_TEMPLATE = (
     "{topic} class {class_no} {subject} previous year board exam questions "
